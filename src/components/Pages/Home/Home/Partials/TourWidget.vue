@@ -8,7 +8,7 @@
       ></v-progress-linear>
     </template>
 
-    <v-carousel height="300">
+    <v-carousel height="300" hide-delimiter-background>
       <v-carousel-item
         v-for="(item, i) in item.images"
         :key="i"
@@ -71,7 +71,7 @@
             >
               <div>
                 <div class="font-weight-normal">
-                  <strong>{{ message.from }}</strong> @{{ message.time }}
+                  <strong>{{ message.from }}</strong>
                 </div>
                 <div>{{ message.message }}</div>
               </div>
@@ -98,21 +98,21 @@ export default {
       show: false,
       messages: [
         {
-          from: "You",
-          message: `Sure, I'll see you later.`,
-          time: "10:42am",
+          from: "19:00 PM - 20:00 PM",
+          message: `Collecting from hotels`,
+          //  time: "10:42am",
           color: "deep-purple lighten-1",
         },
         {
-          from: "John Doe",
-          message: "Yeah, sure. Does 1:00pm work?",
-          time: "10:37am",
+          from: "20:30 PM",
+          message: "Ship departures from Kabataş",
+          // time: "10:37am",
           color: "green",
         },
         {
-          from: "You",
-          message: "Did you still want to grab lunch today?",
-          time: "9:47am",
+          from: "11:00 PM",
+          message: "Arival to Kabataş and to hotels",
+          //   time: "9:47am",
           color: "deep-purple lighten-1",
         },
       ],
