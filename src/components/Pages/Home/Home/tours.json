@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Bosphorus Dinner Cruise",
+    "shortDesc": "Make you night unforgettable in the Bosphorus dinner curuse!",
+    "properties": [
+      {
+        "name": "With Alcohol",
+        "price": 60.0
+      },
+      {
+        "name": "Without Alcohol",
+        "price": 45.0
+      }
+    ],
+    "price": 45.0,
+    "images": [
+      {
+        "src": "/assets/tours/bosphorus1.jpg"
+      },
+      {
+        "src": "/assets/tours/bosphorus2.jpg"
+      },
+      {
+        "src": "/assets/tours/bosphorus3.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Bosphorus Sunset Yatch Tour",
+    "shortDesc": " Enjoy such a beautiful and unique experience as Bosphorous sunset cruise 💙",
+    "price": 260.0,
+    "images": [
+      {
+        "src": "/assets/slider/slider1.jpg"
+      },
+      {
+        "src": "/assets/slider/slider7.jpg"
+      },
+      {
+        "src": "/assets/slider/slider6.jpg"
+      },
+      {
+        "src": "/assets/slider/slider3.jpg"
+      },
+      {
+        "src": "/assets/slider/slider4.jpg"
+      }
+    ]
+  }
+]

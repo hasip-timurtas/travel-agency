@@ -15,27 +15,27 @@ const routes = [
       {
         path: "",
         name: "Home",
-        component: () => import("@/components/Pages/Home/Home")
+        component: () => import("@/components/Pages/Home/Home/Home")
       },
       {
         path: "the-story",
-        name: "TheStory",
-        component: () => import("@/components/Pages/Home/TheStory")
+        name: "TheStory"
+        //component: () => import("@/components/Pages/Home/TheStory")
       },
       {
         path: "first-chapter",
-        name: "FirstChapter",
-        component: () => import("@/components/Pages/Home/FirstChapter")
+        name: "FirstChapter"
+        // component: () => import("@/components/Pages/Home/FirstChapter")
       },
       {
         path: "full-book",
-        name: "FullBook",
-        component: () => import("@/components/Pages/Home/FullBook")
+        name: "FullBook"
+        // component: () => import("@/components/Pages/Home/FullBook")
       },
       {
         path: "community",
-        name: "Community",
-        component: () => import("@/components/Pages/Home/Community")
+        name: "Community"
+        // component: () => import("@/components/Pages/Home/Community")
       },
       {
         path: "contact",

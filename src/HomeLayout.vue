@@ -3,15 +3,16 @@
     <v-app-bar
       :clipped-left="$vuetify.breakpoint.lgAndUp"
       app
-      dark
       class="home-header"
+      height="85"
+      color="blue lighten-4"
     >
       <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
       <v-spacer></v-spacer>
       <v-toolbar-title class="ml-0 pl-4 mr-12">
         <router-link to="/">
           <v-img
-            src="@/assets/ldr-logo.png"
+            src="@/assets/logo.png"
             alt="Payvolut Logo"
             width="100px"
           ></v-img>
@@ -22,7 +23,7 @@
     <v-navigation-drawer
       v-model="drawer"
       :clipped="$vuetify.breakpoint.lgAndUp"
-      absolute
+      fixed
       bottom
       temporary
     >
@@ -44,10 +45,10 @@
           </v-list-item>
           <v-list-group
             v-else
+            no-action
+            sub-group
+            :value="true"
             :key="item.text"
-            v-model="item.model"
-            :prepend-icon="item.model ? item.icon : item['icon-alt']"
-            append-icon
           >
             <template v-slot:activator>
               <v-list-item-content>
@@ -72,8 +73,8 @@
       </v-list>
     </v-navigation-drawer>
     <v-main>
-      <v-card min-height="90vh" elevation="1">
-        <v-card-text>
+      <v-card flat>
+        <v-card-text class="pa-0">
           <router-view />
         </v-card-text>
       </v-card>
@@ -94,24 +95,39 @@ export default {
         icon: "mdi-home-outline",
       },
       {
-        text: "The story",
-        icon: "mdi-heart",
+        text: "Tours",
+        "icon-alt": "mdi-plus",
         link: "/the-story",
-        color: "red",
+        children: [
+          {
+            text: "Islanbul Tours",
+            // icon: "mdi-book-open-outline",
+            link: "/istanbul-tours",
+          },
+          {
+            text: "Cappadocia Tours",
+            // icon: "mdi-book-open-outline",
+            link: "/cappadicia-tours",
+          },
+          {
+            text: "Pamukkale Tours",
+            //icon: "mdi-book-open-outline",
+            link: "/pamukkale-tours",
+          },
+        ],
       },
       {
-        text: "First Chapter",
-        icon: "mdi-book-open-outline",
+        text: "Airport Transfer",
+        icon: "mdi-airplane",
         link: "/first-chapter",
-        click: () => (this.drawer = false),
       },
       {
-        text: "Full book",
+        text: "Visitors",
         link: "/full-book",
-        icon: "mdi-book-open-blank-variant",
+        icon: "mdi-account-group",
       },
       {
-        text: "Community",
+        text: "About Us",
         link: "/community",
         icon: "mdi-account-group",
       },
@@ -127,6 +143,6 @@ export default {
 
 <style lang="scss">
 .home-header {
-  background-color: #ef9c88 !important;
+  height: 75px;
 }
 </style>
