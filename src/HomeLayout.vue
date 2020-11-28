@@ -129,7 +129,8 @@ export default {
       {
         text: "About Us",
         link: "/community",
-        icon: "mdi-account-group",
+        icon: "mdi-heart",
+        color: "red",
       },
       {
         text: "Contact",
