@@ -18,26 +18,6 @@ const routes = [
         component: () => import("@/components/Pages/Home/Home/Home")
       },
       {
-        path: "the-story",
-        name: "TheStory"
-        //component: () => import("@/components/Pages/Home/TheStory")
-      },
-      {
-        path: "first-chapter",
-        name: "FirstChapter"
-        // component: () => import("@/components/Pages/Home/FirstChapter")
-      },
-      {
-        path: "full-book",
-        name: "FullBook"
-        // component: () => import("@/components/Pages/Home/FullBook")
-      },
-      {
-        path: "community",
-        name: "Community"
-        // component: () => import("@/components/Pages/Home/Community")
-      },
-      {
         path: "contact",
         name: "Contact",
         component: () => import("@/components/Pages/Home/Contact")
