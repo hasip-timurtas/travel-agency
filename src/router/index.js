@@ -41,6 +41,11 @@ const routes = [
         path: "contact",
         name: "Contact",
         component: () => import("@/components/Pages/Home/Contact")
+      },
+      {
+        path: "*",
+        name: "NotFound",
+        component: () => import("@/components/Pages/NotFound")
       }
     ]
   },
@@ -203,11 +208,7 @@ const routes = [
     component: () => import("@/components/Pages/ApiExplorer/ApiExplorer")
   },
   */
-  {
-    path: "*",
-    name: "NotFound",
-    component: () => import("@/components/Pages/NotFound")
-  },
+
   {
     path: "/test",
     name: "Test",
