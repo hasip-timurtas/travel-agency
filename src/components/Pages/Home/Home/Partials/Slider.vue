@@ -4,7 +4,7 @@
       v-for="(item, i) in items"
       :key="i"
       :src="item.src"
-      transition="slide-x-transition"
+      transition="scroll-x-transition"
       reverser-transition="slide-x-reverse-transition"
     ></v-carousel-item>
   </v-carousel>

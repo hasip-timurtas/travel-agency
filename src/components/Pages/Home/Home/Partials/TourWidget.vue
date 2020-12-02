@@ -1,5 +1,5 @@
 <template>
-  <v-card :loading="loading" class="mx-auto my-12" max-width="374">
+  <v-card :loading="loading" class="mx-auto my-12" max-width="375">
     <template slot="progress">
       <v-progress-linear
         color="deep-purple"
@@ -18,7 +18,7 @@
       ></v-carousel-item>
     </v-carousel>
 
-    <v-card-title>{{ item.title }}</v-card-title>
+    <v-card-title class="font-weight-bold">{{ item.title }}</v-card-title>
 
     <v-card-text>
       <div class="my-4 subtitle-1">€ • {{ item.price }}</div>
