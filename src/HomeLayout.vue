@@ -73,12 +73,37 @@
       </v-list>
     </v-navigation-drawer>
     <v-main>
-      <v-card flat>
+      <v-card flat min-height="90vh">
         <v-card-text class="pa-0">
           <router-view />
         </v-card-text>
       </v-card>
     </v-main>
+    <v-footer color="blue lighten-2" padless>
+      <v-row justify="center" no-gutters>
+        <v-btn
+          v-for="link in links"
+          :key="link"
+          color="white"
+          text
+          rounded
+          class="my-2"
+        >
+          {{ link }}
+        </v-btn>
+        <v-col class="py-4 text-center white--text" cols="12">
+          <v-btn v-for="icon in icons" :key="icon" class="mx-4" dark icon>
+            <v-icon size="24px">
+              {{ icon }}
+            </v-icon>
+          </v-btn>
+          <div class="pa-2">
+            {{ new Date().getFullYear() }} —
+            <strong>Sultanahmet Old City Travel</strong>
+          </div>
+        </v-col>
+      </v-row>
+    </v-footer>
   </div>
 </template>
 
@@ -86,6 +111,8 @@
 export default {
   data: () => ({
     drawer: false,
+    links: ["Home", "About Us", "Team", "Services", "Blog", "Contact Us"],
+    icons: ["mdi-instagram", "mdi-facebook", "mdi-youtube"],
   }),
   created() {
     this.items = [
