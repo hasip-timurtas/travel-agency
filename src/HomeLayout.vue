@@ -180,11 +180,13 @@ export default {
         icon: "mdi-heart",
         color: "red",
       },
+      /*
       {
         text: "Contact",
         link: "/contact",
         icon: "mdi-email-outline",
       },
+      */
     ];
   },
 };
