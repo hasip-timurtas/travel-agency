@@ -176,7 +176,7 @@ export default {
       },
       {
         text: "About Us",
-        link: "/community",
+        link: "/about-us",
         icon: "mdi-heart",
         color: "red",
       },
