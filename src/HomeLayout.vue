@@ -92,9 +92,17 @@
           {{ link }}
         </v-btn>
         <v-col class="py-4 text-center white--text" cols="12">
-          <v-btn v-for="icon in icons" :key="icon" class="mx-4" dark icon>
+          <v-btn
+            v-for="icon in socials"
+            :key="icon.icon"
+            class="mx-4"
+            dark
+            icon
+            :href="icon.link"
+            target="_blank"
+          >
             <v-icon size="24px">
-              {{ icon }}
+              {{ icon.icon }}
             </v-icon>
           </v-btn>
           <div class="pa-2">
@@ -111,8 +119,21 @@
 export default {
   data: () => ({
     drawer: false,
-    links: ["Home", "About Us", "Team", "Services", "Blog", "Contact Us"],
-    icons: ["mdi-instagram", "mdi-facebook", "mdi-youtube"],
+    links: ["Home", "Airport Transfer", "Visitors", "About us", "Contact"],
+    socials: [
+      {
+        icon: "mdi-instagram",
+        link: "https://www.instagram.com/sultanahmet_old_city_travel/",
+      },
+      {
+        icon: "mdi-youtube",
+        link: "https://www.youtube.com/channel/UC7GIuPuSwJaVB2cabkFsUzA",
+      },
+      {
+        icon: "mdi-facebook",
+        link: "https://www.facebook.com/sultanahmetoldcitytravel",
+      },
+    ],
   }),
   created() {
     this.items = [
