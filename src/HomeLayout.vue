@@ -150,17 +150,17 @@ export default {
           {
             text: "Islanbul Tours",
             // icon: "mdi-book-open-outline",
-            link: "/istanbul-tours",
+            link: "/tours/istanbul-tours",
           },
           {
             text: "Cappadocia Tours",
             // icon: "mdi-book-open-outline",
-            link: "/cappadicia-tours",
+            link: "/tours/cappadicia-tours",
           },
           {
             text: "Pamukkale Tours",
             //icon: "mdi-book-open-outline",
-            link: "/pamukkale-tours",
+            link: "/tours/pamukkale-tours",
           },
         ],
       },

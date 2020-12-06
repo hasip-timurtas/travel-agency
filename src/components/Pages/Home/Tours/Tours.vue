@@ -1,7 +1,6 @@
 <template>
-  <div class="home">
-    <slider />
-
+  <div class="tour-info pa-5">
+    <h1>Istanbul Tours</h1>
     <v-container fluid>
       <v-row class="home__cards d-flex">
         <v-col><tour-widget :item="widgets[0]" /> </v-col>
@@ -18,27 +17,14 @@
   </div>
 </template>
 <script>
-import Slider from "./Partials/Slider";
-import TourWidget from "../Tours/TourWidget";
-import tours from "../Tours/tours.json";
+import TourWidget from "./TourWidget";
+import tours from "./tours.json";
 export default {
-  components: { Slider, TourWidget },
+  components: { TourWidget },
   data() {
     return {
       widgets: tours,
     };
   },
-  created() {
-    console.log(tours);
-  },
 };
 </script>
-<style lang="scss" scoped>
-h1 {
-  @include tablet-to {
-    font-size: 25px;
-  }
-}
-</style>
-
-
