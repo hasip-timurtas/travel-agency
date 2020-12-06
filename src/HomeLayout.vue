@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="wrapper d-flex flex-column">
     <v-app-bar
       :clipped-left="$vuetify.breakpoint.lgAndUp"
       app
@@ -73,7 +73,7 @@
       </v-list>
     </v-navigation-drawer>
     <v-main>
-      <v-card flat min-height="90vh">
+      <v-card flat>
         <v-card-text class="pa-0">
           <router-view />
         </v-card-text>
@@ -195,5 +195,11 @@ export default {
 <style lang="scss">
 .home-header {
   height: 75px;
+}
+
+html,
+body,
+.wrapper {
+  height: 100%;
 }
 </style>
