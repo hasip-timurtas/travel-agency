@@ -1,7 +1,7 @@
 <template>
   <div class="about-us ma-auto d-flex justify-center container">
     <v-card flat class="about-us__card">
-      <v-card-title>About Us</v-card-title>
+      <v-card-title class="text-center">About Us</v-card-title>
       <v-card-text>
         We are an experienced travel agency basen on Istanbul, Turkey. We
         produce tours to all the Turkey with passion. We care customer happinies

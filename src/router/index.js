@@ -18,6 +18,11 @@ const routes = [
         component: () => import("@/components/Pages/Home/Home/Home")
       },
       {
+        path: "airport-transfer",
+        name: "AirportTransfer",
+        component: () => import("@/components/Pages/Home/Transfer/Transfer")
+      },
+      {
         path: "tours/:slug",
         name: "Tours",
         component: () => import("@/components/Pages/Home/Tours/Tours")
@@ -33,10 +38,17 @@ const routes = [
         component: () => import("@/components/Pages/Home/AboutUs")
       },
       {
+        path: "visitors",
+        name: "Visitors",
+        component: () => import("@/components/Pages/Home/Visitors")
+      },
+      /*
+      {
         path: "contact",
         name: "Contact",
         component: () => import("@/components/Pages/Home/Contact")
       },
+      */
       {
         path: "*",
         name: "NotFound",

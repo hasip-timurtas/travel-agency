@@ -167,11 +167,11 @@ export default {
       {
         text: "Airport Transfer",
         icon: "mdi-airplane",
-        link: "/first-chapter",
+        link: "/airport-transfer",
       },
       {
         text: "Visitors",
-        link: "/full-book",
+        link: "/visitors",
         icon: "mdi-account-group",
       },
       {

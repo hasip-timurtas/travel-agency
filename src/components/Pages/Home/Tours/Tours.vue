@@ -1,7 +1,7 @@
 <template>
   <div class="tour-info pa-5">
-    <h1>Istanbul Tours</h1>
     <v-container fluid>
+      <h1 class="text-center">Istanbul Tours</h1>
       <v-row class="home__cards d-flex">
         <v-col><tour-widget :item="widgets[0]" /> </v-col>
         <v-col><tour-widget :item="widgets[1]" /> </v-col>
