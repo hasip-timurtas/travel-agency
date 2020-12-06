@@ -1,5 +1,5 @@
 <template>
-  <div class="about-us ma-auto d-flex justify-center">
+  <div class="about-us ma-auto d-flex justify-center container">
     <v-card flat class="about-us__card">
       <v-card-title>About Us</v-card-title>
       <v-card-text>
@@ -63,14 +63,3 @@ export default {
   },
 };
 </script>
-
-<style lang="scss">
-.about-us {
-  &__card {
-    width: 70%;
-    @include tablet-to {
-      width: 100%;
-    }
-  }
-}
-</style>
