@@ -23,7 +23,8 @@
       {
         "src": "/assets/tours/bosphorus3.jpg"
       }
-    ]
+    ],
+    "slug": "bosphours-dinner-cruise"
   },
   {
     "title": "Bosphorus Sunset Yatch Tour",
@@ -45,6 +46,7 @@
       {
         "src": "/assets/slider/slider4.jpg"
       }
-    ]
+    ],
+    "slug": "bosphours-dinner-cruise"
   }
 ]

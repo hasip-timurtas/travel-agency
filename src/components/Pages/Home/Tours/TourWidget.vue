@@ -122,7 +122,14 @@ export default {
     reserve() {
       this.loading = true;
 
-      setTimeout(() => (this.loading = false), 2000);
+      setTimeout(() => {
+        this.$router.push({
+          name: "TourInfo",
+          params: {
+            slug: this.item.slug,
+          },
+        });
+      }, 2000);
     },
   },
 };
