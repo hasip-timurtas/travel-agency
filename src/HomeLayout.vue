@@ -75,7 +75,7 @@
     <v-main>
       <v-card flat>
         <v-card-text class="pa-0">
-          <router-view />
+          <router-view :key="$route.path" />
         </v-card-text>
       </v-card>
     </v-main>
@@ -155,7 +155,7 @@ export default {
           {
             text: "Cappadocia Tours",
             // icon: "mdi-book-open-outline",
-            link: "/tours/cappadicia-tours",
+            link: "/tours/cappadocia-tours",
           },
           {
             text: "Pamukkale Tours",

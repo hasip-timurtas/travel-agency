@@ -6,13 +6,13 @@
       <v-row class="home__cards d-flex">
         <v-col><tour-widget :item="widgets[0]" /> </v-col>
         <v-col><tour-widget :item="widgets[1]" /> </v-col>
+        <v-col><tour-widget :item="widgets[2]" /> </v-col>
+        <v-col><tour-widget :item="widgets[3]" /> </v-col>
         <v-col><tour-widget :item="widgets[0]" /> </v-col>
         <v-col><tour-widget :item="widgets[1]" /> </v-col>
-        <v-col><tour-widget :item="widgets[1]" /> </v-col>
+        <v-col><tour-widget :item="widgets[2]" /> </v-col>
+        <v-col><tour-widget :item="widgets[3]" /> </v-col>
         <v-col><tour-widget :item="widgets[0]" /> </v-col>
-        <v-col><tour-widget :item="widgets[1]" /> </v-col>
-        <v-col><tour-widget :item="widgets[0]" /> </v-col>
-        <v-col><tour-widget :item="widgets[1]" /> </v-col>
       </v-row>
     </v-container>
   </div>
