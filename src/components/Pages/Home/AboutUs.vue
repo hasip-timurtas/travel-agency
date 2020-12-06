@@ -23,7 +23,7 @@
             </v-img>
           </v-col>
         </v-row>
-        <div>
+        <div class="text-center">
           <h2 class="py-5">Contact Info</h2>
           <p>
             Mail: info@sultanahmetoldcitytravel.com <br />
@@ -32,8 +32,11 @@
             Mobile2: +90 530 961 83 24 <br />
             Whatsapp:+90 551 394 47 46 <br />
             Whatsapp: +90 535 681 83 55 <br />
-            Address: Binbirdirek district, Peykhane street, no:49/B Sultanahmet,
-            Fatih, Istanbul, Turkey
+          </p>
+          <strong>Address</strong>
+          <p>
+            Binbirdirek district, Peykhane street, no:49/B Sultanahmet, Fatih,
+            Istanbul, Turkey
           </p>
         </div>
       </v-card-text>
