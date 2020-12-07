@@ -1,8 +1,19 @@
 <template>
   <div class="home">
     <slider />
-
-    <v-container fluid>
+    <v-row justify="center blue lighten-2" no-gutters>
+      <v-btn
+        v-for="link in links"
+        :key="link"
+        color="white"
+        text
+        rounded
+        class="my-2"
+      >
+        {{ link }}
+      </v-btn>
+    </v-row>
+    <v-container fluid class="pa-0">
       <v-row class="home__cards d-flex">
         <v-col><tour-widget :item="widgets[0]" /> </v-col>
         <v-col><tour-widget :item="widgets[1]" /> </v-col>
@@ -26,6 +37,12 @@ export default {
   data() {
     return {
       widgets: tours,
+      links: [
+        "Istanbul Tous",
+        "Cappadocia Tours",
+        "Pamukkale Tours",
+        "Airport Transfer",
+      ],
     };
   },
   created() {

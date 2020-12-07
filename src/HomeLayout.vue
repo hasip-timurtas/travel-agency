@@ -5,7 +5,6 @@
       app
       class="home-header"
       height="85"
-      color="blue lighten-4"
     >
       <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
       <v-spacer></v-spacer>
