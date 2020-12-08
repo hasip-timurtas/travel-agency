@@ -129,7 +129,7 @@ export default {
             slug: this.item.slug,
           },
         });
-      }, 2000);
+      }, 1000);
     },
   },
 };

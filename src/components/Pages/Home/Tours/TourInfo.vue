@@ -14,11 +14,12 @@
       <p>
         {{ tour.shortDesc }}
       </p>
+      <div v-html="tour.description" />
     </div>
   </div>
 </template>
 <script>
-import tours from "./tours.json";
+import tours from "@/plugins/tours";
 export default {
   data() {
     return {
@@ -26,7 +27,8 @@ export default {
     };
   },
   created() {
-    this.tour = this.widgets.find((e) => (e.slug = this.$route.params.slug));
+    this.tour = this.widgets.find((e) => e.slug === this.$route.params.slug);
+    console.log(this.tour, this.widgets);
   },
 };
 </script>

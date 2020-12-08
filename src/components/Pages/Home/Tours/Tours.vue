@@ -12,7 +12,7 @@
 </template>
 <script>
 import TourWidget from "./TourWidget";
-import tours from "./tours.json";
+import tours from "@/plugins/tours";
 export default {
   components: { TourWidget },
   data() {

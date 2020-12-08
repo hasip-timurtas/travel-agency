@@ -3,14 +3,15 @@
     <slider />
     <v-row justify="center blue lighten-2" no-gutters>
       <v-btn
-        v-for="link in links"
-        :key="link"
+        v-for="menu in menus"
+        :key="menu.link"
         color="white"
         text
         rounded
         class="my-2"
+        :to="menu.link"
       >
-        {{ link }}
+        {{ menu.name }}
       </v-btn>
     </v-row>
     <v-container fluid class="pa-0">
@@ -31,22 +32,34 @@
 <script>
 import Slider from "./Partials/Slider";
 import TourWidget from "../Tours/TourWidget";
-import tours from "../Tours/tours.json";
+import tours from "@/plugins/tours";
 export default {
   components: { Slider, TourWidget },
   data() {
     return {
       widgets: tours,
-      links: [
-        "Istanbul Tous",
-        "Cappadocia Tours",
-        "Pamukkale Tours",
-        "Airport Transfer",
+      menus: [
+        {
+          name: "Istanbul Tous",
+          link: "/tours/istanbul-tours",
+        },
+        {
+          name: "Cappadocia Tours",
+          link: "/tours/cappadocia-tours",
+        },
+        {
+          name: "Pamukkale Tours",
+          link: "/tours/pamukkale-tours",
+        },
+        {
+          name: "Airport Transfer",
+          link: "/airport-transfer",
+        },
       ],
     };
   },
   created() {
-    console.log(tours);
+    //console.log(tours);
   },
 };
 </script>
