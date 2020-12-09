@@ -132,13 +132,38 @@ module.exports = [
 <p>&nbsp;</p>
 <p><span>***Please Note*** With this 2-day tour, you will see all the beauties of Cappadocia at a limited time.Due to this limited time, flights to Cappadocia are the first flights in the morning. (Usually 06.40 am flight, subject to availability).Your pick up time from Istanbul hotel will be around 04 am.</span></p>
   </div>`,
-    price: 260.0,
+    price: 360.0,
     images: [
       {
         src: "/assets/slider/slider3.jpg"
       }
     ],
     slug: "cappadocia-tour-2",
+    category: {
+      name: "Cappadocia Tours",
+      slug: "cappadocia-tours"
+    }
+  },
+  {
+    title: "Cappadocia Baloon",
+    shortDesc: "Hot Air Baloon Flight Cappadocia",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <h3>Hot Air Balloon Flight</h3>
+<h4><span>CAPPADOCIA</span></h4>
+<p>&nbsp;</p>
+<p>This tour start from Cappadocia hotels. You will need a plane or bus ticket to join this tour from other cities. Cappadocia offers a unique experience with a balloon flight over the below unexpected surreal view; it will surprise you. It drifts silently and effortlessly from the balloon valleys and famous periwinkles, vineyards and gardens. The striking colors of rock formations will take your breath away. No matter how long you plan to stay in Cappadocia, it is something you should not miss.&nbsp;Float over the spectacular fairy chimneys of Cappadocia on a 1 hour hot air balloon flight and see stunning nature, history and rock formations. Glide with the breeze in deluxe balloons, before a gentle descent for a champagne toast celebration. &nbsp;Standart balloons accommodate 16-24-28 passengers</p>
+<p><span><u><strong>Highlights:</strong></u></span><br>•Float above the fairy chimney rock formations of Cappadocia.&nbsp;<br>•Glide with the breeze over hidden rock temples and homes.&nbsp;<br>•See the unique landscape of Goreme's sedimentary volcanic rocks.&nbsp;<br>•Enjoy a light pre-flight breakfast, and celebrate your landing with a champagne toast</p>
+<p><span><u><strong>Description:</strong></u></span><br>Enjoy a standart&nbsp;hot air balloon flight above the fairy chimneys of Cappadocia, with transfers from your hotel to an exclusive breakfast saloon.&nbsp;While your balloon is prepared, tuck into a light breakfast. Your pilot will make any final arrangements at the morning’s best place for takeoff, while you watch the ground crew inflate the balloon.&nbsp;After a safety briefing, ascend into the sky to fly for an hour with the breeze. Glide over the unique rock formations and hidden churches of Cappadocia. The crew is trained to the highest standard and all pilots hold full commercial balloon pilot licenses, so you are in the safest hands. Each basket holds 16-24-28&nbsp;passengers(depends on the basket size), so prepare for an intimate experience in the silent air. Once back on firm ground, sip on sparkling champagne, and celebrate your adventure with a personal flight certificate souvenir memory.</p>
+<p><span><u><strong>What's Included:</strong></u></span><br>• Transfers<br>• Light breakfast<br>• 1-hour hot air balloon flight standart balloon<br>• 1,5 -hour hot air balloon flight deluxe&nbsp;balloon<br>• Champagne toast<br>• Personnel flight certificate<br>• Full insurance<br><br><span><u><strong>What's Not Included:</strong></u></span><br>• Tips and souvenirs<br>• Accomodation<br>• Flight Tickets<br><br><span><u><strong>Good to Know:</strong></u></span><br>• Children younger than 6 years old fly for free. Children must be accompanied by a responsible adult at all times<br>• Vendor reserves the right to cancel a flight if weather conditions might create a risk in terms of flight security. Your flight will be&nbsp;refunded in full, or your booking can be transferred to the next day if a place is available<br>• Standart balloons accommodate 16-24-28 passengers<br>• Deluxe&nbsp;balloons accommodate 8-16&nbsp;passengers<br>• Please contact vendor with your accommodation details to arrange pick-up time</p>
+<h2><strong><span><u>Not:Deluxe balloon flight price is 180 euro per person and&nbsp;&nbsp;flight 1,5 hour.</u></span></strong></h2>
+  </div>`,
+    price: 190.0,
+    images: [
+      {
+        src: "/assets/slider/slider3.jpg"
+      }
+    ],
+    slug: "cappadocia-baloon",
     category: {
       name: "Cappadocia Tours",
       slug: "cappadocia-tours"
