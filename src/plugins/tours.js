@@ -58,24 +58,6 @@ module.exports = [
     }
   },
   {
-    title: "Cappadocia Baloon Tour",
-    shortDesc: "Enjoy such a beautiful and unique experience with a baloon tour in Cappadocia!",
-    price: 260.0,
-    images: [
-      {
-        src: "/assets/slider/slider4.jpg"
-      },
-      {
-        src: "/assets/slider/slider7.jpg"
-      }
-    ],
-    slug: "cappadocia-baloon-tour",
-    category: {
-      name: "Cappadocia Tours",
-      slug: "cappadocia-tours"
-    }
-  },
-  {
     title: "Pamukkale Tour",
     shortDesc: "Enjoy such a beautiful and unique experience with a our special Pamukkale Tour",
     price: 260.0,
@@ -135,7 +117,22 @@ module.exports = [
     price: 360.0,
     images: [
       {
-        src: "/assets/slider/slider3.jpg"
+        src: "/assets/tours/cappadocia/tour-2/1.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/tour-2/2.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/tour-2/3.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/tour-2/4.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/tour-2/5.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/tour-2/6.jpg"
       }
     ],
     slug: "cappadocia-tour-2",
@@ -160,7 +157,22 @@ module.exports = [
     price: 190.0,
     images: [
       {
-        src: "/assets/slider/slider3.jpg"
+        src: "/assets/tours/cappadocia/baloon/1.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/baloon/2.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/baloon/3.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/baloon/4.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/baloon/5.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/baloon/6.jpg"
       }
     ],
     slug: "cappadocia-baloon",
@@ -179,7 +191,13 @@ module.exports = [
     price: 50.0,
     images: [
       {
-        src: "/assets/slider/slider3.jpg"
+        src: "/assets/tours/cappadocia/horseback-riding-tours/1.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/horseback-riding-tours/2.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/horseback-riding-tours/3.jpg"
       }
     ],
     slug: "cappadocia-horseback",
