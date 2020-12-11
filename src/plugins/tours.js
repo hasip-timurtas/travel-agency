@@ -205,5 +205,35 @@ module.exports = [
       name: "Cappadocia Tours",
       slug: "cappadocia-tours"
     }
+  },
+  {
+    title: "Cappadocia Quad Safari",
+    shortDesc: "Cappadocia Quad Safari",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <p>&nbsp;</p>
+<h2><img src="https://cdn.shopify.com/s/files/1/0086/1877/0511/files/secure-checkout_500x.png?v=1552542948" alt=""></h2>
+<p><em><strong>Cappadocia Quad Safari</strong></em></p>
+<p><span>A</span><span> great way to get right into the Cappadocia Valley! Take a half or full-day guided tour through the most beautiful of Cappadocia’s spectacular rock-cut valleys on a sturdy ATV (quad) bike. These tours are a great activity option for those seeking a few hours of fun and adventure outdoors. ATVs provide an opportunity for great sight-seeing, as one is enabled to roam the hills, valleys, dunes, and trails of the Cappadocia.A variety of ATV tours, lasting from 2 to 8 hours, are available in Paran tour Travel Agency. All tours include a guide. The two hours tour is the most common. 2 hours ATV tour is 65 Euro per person including a guide with another ATV.</span></p>
+  </div>`,
+    price: 65.0,
+    images: [
+      {
+        src: "/assets/tours/cappadocia/quad-safari/1.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/quad-safari/2.png"
+      },
+      {
+        src: "/assets/tours/cappadocia/quad-safari/3.png"
+      },
+      {
+        src: "/assets/tours/cappadocia/quad-safari/4.png"
+      }
+    ],
+    slug: "cappadocia-horseback",
+    category: {
+      name: "Cappadocia Tours",
+      slug: "cappadocia-tours"
+    }
   }
 ];
