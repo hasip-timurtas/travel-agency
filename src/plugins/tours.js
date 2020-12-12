@@ -76,7 +76,7 @@ module.exports = [
     title: "Cappadocia Tour 2",
     shortDesc: "Cappadocia 2 days tour with cave hotel",
     description: `<div class="rte product-single__description" itemprop="description">
-    <p>&nbsp;<img src="https://cdn.shopify.com/s/files/1/0086/1877/0511/files/secure-checkout_500x.png?v=1552542948" alt=""></p>
+    <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
 <div class="rte__table-wrapper"><table width="100%">
 <tbody>
 <tr>
@@ -211,7 +211,7 @@ module.exports = [
     shortDesc: "Cappadocia Quad Safari",
     description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;</p>
-<h2><img src="https://cdn.shopify.com/s/files/1/0086/1877/0511/files/secure-checkout_500x.png?v=1552542948" alt=""></h2>
+<h2><img src="/assets/secure-checkout.png" alt=""></h2>
 <p><em><strong>Cappadocia Quad Safari</strong></em></p>
 <p><span>A</span><span> great way to get right into the Cappadocia Valley! Take a half or full-day guided tour through the most beautiful of Cappadocia’s spectacular rock-cut valleys on a sturdy ATV (quad) bike. These tours are a great activity option for those seeking a few hours of fun and adventure outdoors. ATVs provide an opportunity for great sight-seeing, as one is enabled to roam the hills, valleys, dunes, and trails of the Cappadocia.A variety of ATV tours, lasting from 2 to 8 hours, are available in Paran tour Travel Agency. All tours include a guide. The two hours tour is the most common. 2 hours ATV tour is 65 Euro per person including a guide with another ATV.</span></p>
   </div>`,
@@ -231,6 +231,34 @@ module.exports = [
       }
     ],
     slug: "cappadocia-horseback",
+    category: {
+      name: "Cappadocia Tours",
+      slug: "cappadocia-tours"
+    }
+  },
+  {
+    title: "North Cappadocia",
+    shortDesc: "North Cappadocia Red Tour",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
+<p><strong><u></u></strong><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><br><br><span>South Cappadocia tour also known as Green tour at Lonely Planet’s recommendations. It’s a great itinerary which covers all highlights of the South Cappadocia and when combined with North Cappadocia tour at second day, two tours would cover all Cappadocia’s highlights.</span><strong>DERINKUYU UNDERGROUND CITY</strong><br><span>Derinkuyu is Cappadocia’s biggest underground with approximately 7 floors and 85m deep. It contains all the usual rooms found in an underground city (stables, cellars, storage rooms, refectories, churches, wineries etc). Apart from these, a large room with a barrel vaulted ceiling on the second floor was a missionary school, the rooms to the left being study rooms. From the 3rd and 4th floors onwards the descent is by way of vertical staircases, which lead to a cruciform plan church on the lowest floor. The 55m deep ventilation shaft was also used as a well. Not every floor was provided with surface access in order to protect the dwellers from poisoning during raids. Derinkuyu Underground City was opened to visitors in 1965 but so far only 10% can be visited.</span></p>
+<p>&nbsp;</p>
+<p><strong>IHLARA VALLEY – TREK</strong><br>Early Christians have constructed their rock houses and temples by carving the tuffs in the valley of Ihlara, through the valley runs the Melendiz River. The waters of the river are named Ihlara as Peristrema meaning “The people of circulating waters”. To search the source of the water in Ihlara, is in fact trying to reveal the meaning of life. It takes 2 1/2hrs to walk from the Ihlara Vadisi to Belisirma and about 3hrs to walk from Belisirma to Selime.</p>
+<p><strong>BELISIRMA AND LUNCH</strong><br>After walking through Ihlara Valley you will be driven to Belisirma for a smorgasbord lunch, a mixture of Turkish and Western food including dessert.</p>
+<p><strong>PIGEON VALLEY</strong><br>You will stop on the outskirts of Goreme village and look down into Pigeon Valley to see the centuries old pigeon houses carved from the cliffs. Throughout the years farmers have used pigeon manure as a rich source of fertiliser for their crops.</p>
+<p><strong>SELIME MONASTRY</strong><br>Selime Monastery is an astonishing rock cut structure incorporating a vast kitchen and soaring chimney. A church with a gallery all around it, stables with feeding troughs and other evidence of the troglodyte lifestyle.</p>
+<p><strong>GOREME ESENTEPE (PANAROMIC VIEW)</strong><br>The magnificent landscape around Goreme has been formed from its solidified lava streams, its ash and tuff stone, all dating from the Neocene period. A result of thousands of years of continual erosion makes this area look like a lunar landscape. The fairy chimneys also have a great colour variety. There are light and dark colours from white to yellow, pink, grey and black.</p>
+  </div>`,
+    price: 60.0,
+    images: [
+      {
+        src: "/assets/tours/cappadocia/red-tour/1.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/red-tour/2.jpg"
+      }
+    ],
+    slug: "north-cappadocia-red-tour",
     category: {
       name: "Cappadocia Tours",
       slug: "cappadocia-tours"
