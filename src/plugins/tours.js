@@ -263,5 +263,33 @@ module.exports = [
       name: "Cappadocia Tours",
       slug: "cappadocia-tours"
     }
+  },
+  {
+    title: "South Cappadocia",
+    shortDesc: "South Cappadocia Green Tour",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
+<p><strong><u></u></strong><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><br><br><span>South Cappadocia tour also known as Green tour at Lonely Planet’s recommendations. It’s a great itinerary which covers all highlights of the South Cappadocia and when combined with North Cappadocia tour at second day, two tours would cover all Cappadocia’s highlights.</span><strong>DERINKUYU UNDERGROUND CITY</strong><br><span>Derinkuyu is Cappadocia’s biggest underground with approximately 7 floors and 85m deep. It contains all the usual rooms found in an underground city (stables, cellars, storage rooms, refectories, churches, wineries etc). Apart from these, a large room with a barrel vaulted ceiling on the second floor was a missionary school, the rooms to the left being study rooms. From the 3rd and 4th floors onwards the descent is by way of vertical staircases, which lead to a cruciform plan church on the lowest floor. The 55m deep ventilation shaft was also used as a well. Not every floor was provided with surface access in order to protect the dwellers from poisoning during raids. Derinkuyu Underground City was opened to visitors in 1965 but so far only 10% can be visited.</span></p>
+<p>&nbsp;</p>
+<p><strong>IHLARA VALLEY – TREK</strong><br>Early Christians have constructed their rock houses and temples by carving the tuffs in the valley of Ihlara, through the valley runs the Melendiz River. The waters of the river are named Ihlara as Peristrema meaning “The people of circulating waters”. To search the source of the water in Ihlara, is in fact trying to reveal the meaning of life. It takes 2 1/2hrs to walk from the Ihlara Vadisi to Belisirma and about 3hrs to walk from Belisirma to Selime.</p>
+<p><strong>BELISIRMA AND LUNCH</strong><br>After walking through Ihlara Valley you will be driven to Belisirma for a smorgasbord lunch, a mixture of Turkish and Western food including dessert.</p>
+<p><strong>PIGEON VALLEY</strong><br>You will stop on the outskirts of Goreme village and look down into Pigeon Valley to see the centuries old pigeon houses carved from the cliffs. Throughout the years farmers have used pigeon manure as a rich source of fertiliser for their crops.</p>
+<p><strong>SELIME MONASTRY</strong><br>Selime Monastery is an astonishing rock cut structure incorporating a vast kitchen and soaring chimney. A church with a gallery all around it, stables with feeding troughs and other evidence of the troglodyte lifestyle.</p>
+<p><strong>GOREME ESENTEPE (PANAROMIC VIEW)</strong><br>The magnificent landscape around Goreme has been formed from its solidified lava streams, its ash and tuff stone, all dating from the Neocene period. A result of thousands of years of continual erosion makes this area look like a lunar landscape. The fairy chimneys also have a great colour variety. There are light and dark colours from white to yellow, pink, grey and black.</p>
+  </div>`,
+    price: 60.0,
+    images: [
+      {
+        src: "/assets/tours/cappadocia/green-tour/1.jpg"
+      },
+      {
+        src: "/assets/tours/cappadocia/green-tour/2.jpg"
+      }
+    ],
+    slug: "south-cappadocia-green-tour",
+    category: {
+      name: "Cappadocia Tours",
+      slug: "cappadocia-tours"
+    }
   }
 ];
