@@ -291,5 +291,48 @@ module.exports = [
       name: "Cappadocia Tours",
       slug: "cappadocia-tours"
     }
+  },
+  {
+    title: "Byzantine & Ottoman Traces ST-03",
+    shortDesc: "Byzantine & Ottoman Traces ST-03",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <h2>﻿<img src="/assets/secure-checkout.png" alt="">
+</h2>
+<p><strong><em>Full Day City Tour with Lunch and Entrance fees Included</em></strong></p>
+<p><strong><em>-Hagi Sophia&nbsp;</em></strong></p>
+<p>From the Golden Age of Byzantine, this once Christian Church is one of the most extraordinary buildings in the history of architecture, It played a very important role in the Beyzantine Empire and later as a mosque in the Ottoman Empire, The word “Hagia” in Greek means “Divine” and “Sophia” means “Wisdom”, Divine Wisdom is one of the attributes of Jesus Christ and this church is devoted to his divine wisdom</p>
+<p><strong><em>-Blue Mosque&nbsp;</em></strong></p>
+<p>&nbsp;The Blue Mosque is one of the most prominent landmarks of Istanbul, It is very immpresive with its beautiful domes and semidomes, nice courtyards and six slender minarets. <br><em><strong></strong></em></p>
+<p><em><strong>-Hippodrome and Obelisks&nbsp;</strong></em></p>
+<p><strong><em>&nbsp;</em></strong>The square in front of the Blue Mosque covers the site of the ancient “Hippodrome”, one of the most famous areas in Byzantine&nbsp;</p>
+<p><em><strong>Shopping Opportunity</strong></em></p>
+<p><em><strong>Lunch Break</strong></em></p>
+<p><em><strong>Fener/Balat : Orthodox &amp; Jewish Heritage&nbsp;</strong></em></p>
+<p>The estuary, Haliç in Turkish was called as the Golden Horn by the Byzantines The Golden Horn was closely associated with the Tulip Era the most controversial period of Ottoman history.At present two districts of Istanbul, Balat and Fener, are closely associated with the Golden horn grated privileges to the Christian and jewish communities living in the city to perform their rituals free of intervention.</p>
+<p><strong><em>-Topkapi Palace</em><span>&nbsp;</span></strong></p>
+<p>Topkapi Palace was the main residence of the sultan and his court, It was initially the seat of government as well as the imperial residence. Even though access was strictly regulated, inhabitants as an autonomous entity, a city within a city, Audience and consultation chambers and areas served for the political workings of the empire</p>
+<p><strong><em>-Grand Bazaar</em></strong>&nbsp;</p>
+<p>Our tour is going to conclude in Grand Bazaar for giving you free time of visiting this legendary bazaar.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="color: #ff0000;">!&nbsp;Hagia Sophia will be replaced by Yerebatan Cistem on Monday.Blue Mosque will be replaced by Nuruosmaniye Mosque on Friday. Topkapı Palace is cloced on Tuesday. Grand Bazaar is closed on Sunday.Vehicle will be used only for the necessary part of this tour.So please be prepared for a bit walking during the day.</span></p>
+  </div>`,
+    price: 60.0,
+    images: [
+      {
+        src: "/assets/tours/istanbul/byzantine-ottoman-traces/1.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/byzantine-ottoman-traces/2.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/byzantine-ottoman-traces/3.jpg"
+      }
+    ],
+    slug: "",
+    category: {
+      name: "Istanbul Tours",
+      slug: "istanbul-tours"
+    }
   }
 ];
