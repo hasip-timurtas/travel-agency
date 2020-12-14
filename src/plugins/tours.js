@@ -296,7 +296,7 @@ module.exports = [
     title: "Byzantine & Ottoman Traces ST-03",
     shortDesc: "Byzantine & Ottoman Traces ST-03",
     description: `<div class="rte product-single__description" itemprop="description">
-    <h2>﻿<img src="/assets/secure-checkout.png" alt="">
+<h2><img src="/assets/secure-checkout.png" alt="">
 </h2>
 <p><strong><em>Full Day City Tour with Lunch and Entrance fees Included</em></strong></p>
 <p><strong><em>-Hagi Sophia&nbsp;</em></strong></p>
