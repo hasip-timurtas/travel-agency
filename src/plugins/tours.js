@@ -230,7 +230,7 @@ module.exports = [
         src: "/assets/tours/cappadocia/quad-safari/4.png"
       }
     ],
-    slug: "cappadocia-horseback",
+    slug: "cappadocia-quad-safary",
     category: {
       name: "Cappadocia Tours",
       slug: "cappadocia-tours"
@@ -293,7 +293,7 @@ module.exports = [
     }
   },
   {
-    title: "Byzantine & Ottoman Traces ST-03",
+    title: "Byzantine & Ottoman Traces",
     shortDesc: "Byzantine & Ottoman Traces ST-03",
     description: `<div class="rte product-single__description" itemprop="description">
 <h2><img src="/assets/secure-checkout.png" alt="">
@@ -329,7 +329,52 @@ module.exports = [
         src: "/assets/tours/istanbul/byzantine-ottoman-traces/3.jpg"
       }
     ],
-    slug: "",
+    slug: "byzantine-ottoman-traces-tour",
+    category: {
+      name: "Istanbul Tours",
+      slug: "istanbul-tours"
+    }
+  },
+  {
+    title: "From Ottomans To Today",
+    shortDesc: "From Ottomans To Today ST-04",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <h2><img src="/assets/secure-checkout.png" alt=""></h2>
+<p><em><strong>Full Day City Tour with Lunch and Entrance Included</strong></em></p>
+<p><em><strong>Topkapı Palace&nbsp;</strong></em></p>
+<p>Topkapi Palace was the main residence of the sultan and his court, It was initially the seat of government as well as the imperial residence. Even though access was strictly regulated, inhabitants as an autonomous entity, a city within a city, Audience and consultation chambers and areas served for the political workings of the empire</p>
+<p><em><strong>-Hippodrome and Obelisks</strong> </em><br>The square in front of the Blue Mosque covers the site of the ancient “Hippodrome”, one of the most famous areas in Byzantine</p>
+<p><em><strong>-Hippodrome and Obelisks</strong> </em><br>The square in front of the Blue Mosque covers the site of the ancient “Hippodrome”, one of the most famous areas in Byzantine</p>
+<p><em><strong>Shopping Opportunity</strong></em></p>
+<p><em><strong>Lunch Break</strong></em></p>
+<p><em><strong>Fener/Balat : Orthodox &amp; Jewish Heritage&nbsp;</strong></em></p>
+<p>The estuary, Haliç in Turkish was called as the Golden Horn by the Byzantines The Golden Horn was closely associated with the Tulip Era the most controversial period of Ottoman history.At present two districts of Istanbul, Balat and Fener, are closely associated with the Golden horn grated privileges to the Christian and jewish communities living in the city to perform their rituals free of intervention</p>
+<p><em><strong>Süleymaniye Mosque&nbsp;</strong></em></p>
+<p><strong></strong>The Süleymaniye crowns of Istanbul's seven hills and dominates the Golden Horn providing a landmark for the entire city. Though it's not the largest of the Ottoman mosques, it is certainly one of the grandest and most beatiful.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="color: #ff0000;">! Blue Mosque will be replaced by Nuruosmaniye Mosque on Friday. Topkapı Palace is cloced on Tuesday. Grand Bazaar is closed on Sunday&nbsp;Vehicle will be used only for the necessary part of this tour.So please be prepared for a bit walking during the day.</span></p>
+<h3></h3>
+  </div>`,
+    price: 60.0,
+    images: [
+      {
+        src: "/assets/tours/istanbul/from-ottomans-to-today/1.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/from-ottomans-to-today/2.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/from-ottomans-to-today/3.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/from-ottomans-to-today/4.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/from-ottomans-to-today/5.jpg"
+      }
+    ],
+    slug: "from-ottomans-to-today-tour",
     category: {
       name: "Istanbul Tours",
       slug: "istanbul-tours"
