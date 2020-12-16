@@ -379,5 +379,54 @@ module.exports = [
       name: "Istanbul Tours",
       slug: "istanbul-tours"
     }
+  },
+  {
+    title: "Istanbul True Discovery",
+    shortDesc: "Istanbul True Discovery ST-06",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <h4><img src="/assets/secure-checkout.png" alt=""></h4>
+<h4><strong>Dolmabahçe Palace Interior Visit,Across to Asia:Bosphorus Bridge,Asian Hill,Pierre Loti Hill,Fly over by Cable Car,City Walls,Open Buffet Lunch on the Boat,Rumeli Fortress(From the Sea,The Black Sea,Beykoz(Stop over)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></h4>
+<p><em><strong>-Dolmabahçe Palace Interior Visit&nbsp;</strong></em></p>
+<p>Dolmabahçe is the richest palace of whole Ottoman period and is very busy especially in the afternun by group visits That's why our tour is a gem as we're going to visit it in the peaceful morning period..</p>
+<p><strong><em>-Across to Asia: Bosphorus Bridge&nbsp;</em></strong></p>
+<p><strong></strong>Overshadowing&nbsp; Istanbul's traditional architecture is one of the world's largest suspension bridges, linking Europe and Asia.&nbsp;</p>
+<p><strong><em>-Asian Hill&nbsp;</em></strong></p>
+<p>We climb a Bosphorus side hill by bus for a view which commands a magnificent view that embraces the Bosphorus and old Istanbul&nbsp;</p>
+<p><strong><em>-Pierre Loti Hill&nbsp;</em></strong></p>
+<p><strong></strong>The hill was named after the French novelist and naval officer Pierre Loti who visited Istanbul several times and stayed many years.</p>
+<p><strong><em>-Fly Over by Cable Car&nbsp;</em></strong></p>
+<p><strong></strong>Enjoy the beautiful view from the cable car all the way down to the hill.</p>
+<p><em><strong>-The City Walls</strong> </em><br>Constantinople’s great city walls were breached only twice in 1600 years, the first breache occurred in 1204 during the fourth Crusade; the second breach was led by “Sultan Mehmet the Conqueror”. <br><span style="text-decoration: underline;">Shopping opportunity</span></p>
+<p><strong><em>*Open Buffet Lunch on the Boat</em></strong> <br>After you embark the boat, you will have chance to appreciate the rich open buffet season salads, delicious hors d’oeuvre, Chicken Shish Kebap,rice and fruits (Drinks are excluded) (During low season we serve the lunch on the calm water of Golden Horn before heading up to Black sea)</p>
+<p><em><strong>*Rumeli Fortress (From the Sea)</strong> </em><br>Legendary fortress best seen by the sea.</p>
+<p><strong><em>*The Black Sea</em> </strong><br> Get the best shot where Bosphorus meets the Black Sea.</p>
+<p><em><strong>*Beykoz (Stop over)</strong> </em><br>The earliest settlement in Beykoz dates back to about 2700 years ago,in the Roman period and it is speculated that sailors who intended to sail towards the Black Sea made offerings and sacrifices to Zeus and Poseidon</p>
+<p>&nbsp;</p>
+<p><span style="color: #ff0000;">! Dolmabahçe Palace is closed on Monday and Thursday It will be replaced by a visit to Chora Museum (Church) on those days.</span><br><span style="color: #ff0000;">&nbsp;&nbsp;</span></p>
+<p>&nbsp;</p>
+  </div>`,
+    price: 65.0,
+    images: [
+      {
+        src: "/assets/tours/istanbul/istanbul-true-discovery/1.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/istanbul-true-discovery/2.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/istanbul-true-discovery/3.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/istanbul-true-discovery/4.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/istanbul-true-discovery/5.jpg"
+      }
+    ],
+    slug: "istanbul-true-discovery-tour",
+    category: {
+      name: "Istanbul Tours",
+      slug: "istanbul-tours"
+    }
   }
 ];
