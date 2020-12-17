@@ -428,5 +428,39 @@ module.exports = [
       name: "Istanbul Tours",
       slug: "istanbul-tours"
     }
+  },
+  {
+    title: "Bosphorus & Black Sea",
+    slug: "bosphours-black-sea",
+    shortDesc: "Bosphorus & blacksea with lunch ST-8 XL",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <h4><img src="/assets/secure-checkout.png" alt=""></h4>
+<h4><strong></strong></h4>
+<p>&nbsp;Half Day Bosphorus and Black Sea Tour with Lunch&nbsp;</p>
+<p><strong><em>*Open Buffet Lunch on the Boat</em></strong><span>&nbsp;</span><br><span>After you embark the boat, you will have chance to appreciate the rich open buffet season salads, delicious hors d’oeuvre, Chicken Shish Kebap,rice and fruits (Drinks are excluded) <span style="color: #ff0000;">(During low season we serve the lunch on the calm water of Golden Horn before heading up to Black sea)</span></span></p>
+<p><em><strong>*Rumeli Fortress (From the Sea)</strong><span>&nbsp;</span></em><br>Legendary fortress best seen by the sea.</p>
+<p><strong><em>*The Black Sea</em><span>&nbsp;</span></strong><br>Get the best shot where Bosphorus meets the Black Sea.</p>
+<p><em><strong>*Beykoz (Stop over)</strong><span>&nbsp;</span></em><br>The earliest settlement in Beykoz dates back to about 2700 years ago,in the Roman period and it is speculated that sailors who intended to sail towards the Black Sea made offerings and sacrifices to Zeus and Poseidon</p>
+<p>&nbsp;The Maiden's Tover&nbsp;</p>
+<p>Maiden's Toveris built firstly in 1110, by Byzantine Emperor Alexius Comnenus.Without our tour, you should go all the way to Kabataş on your own and catch a boat to be able to see clearly Maiden's Tower&nbsp;</p>
+<p><strong><em>﻿ST-8 includes Open Buffet Lunch on the Boat.</em></strong></p>
+<p>&nbsp;</p>
+  </div>`,
+    price: 35.0,
+    images: [
+      {
+        src: "/assets/tours/istanbul/bosphorus-black-sea/1.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/bosphorus-black-sea/2.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/bosphorus-black-sea/3.jpg"
+      }
+    ],
+    category: {
+      name: "Istanbul Tours",
+      slug: "istanbul-tours"
+    }
   }
 ];
