@@ -462,5 +462,44 @@ module.exports = [
       name: "Istanbul Tours",
       slug: "istanbul-tours"
     }
+  },
+  {
+    title: "Istanbul Active & Sea Life",
+    slug: "istanbul-active-sea-life",
+    shortDesc: "Istanbul Active & Sea Life ST-9",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <h4><img src="/assets/secure-checkout.png" alt=""></h4>
+<h4>Full Day City Tour with Cable Car, Shopping and Cruise with Lunch&nbsp;</h4>
+<h4>-PIERRE LOTI HILL&nbsp;</h4>
+<h4>-FLY OVER BY CABLE CAR&nbsp;</h4>
+<h4>-EYÜP SULTAN MOSQUE&nbsp;</h4>
+<h4>-ABU AYYUB AL ANSARI&nbsp;</h4>
+<h4>-THE CITY WALLS&nbsp;</h4>
+<h4>-OLIVIUM OUTLET CENTER</h4>
+<h4>-GOLDEN HORN CRUİSE&nbsp;</h4>
+<h4>-BOSPHORUS CRUİSE&nbsp;</h4>
+<h4>-OPEN BUFFET LUNCH ON BOAT&nbsp;</h4>
+<h4>-BLACK SEA STOP OVER&nbsp;&nbsp;</h4>
+<p><strong><em>MAIDEN'S TOWER</em></strong></p>
+  </div>`,
+    price: 45.0,
+    images: [
+      {
+        src: "/assets/tours/istanbul/istanbul-active-sea-life/1.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/istanbul-active-sea-life/2.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/istanbul-active-sea-life/3.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/istanbul-active-sea-life/4.jpg"
+      }
+    ],
+    category: {
+      name: "Istanbul Tours",
+      slug: "istanbul-tours"
+    }
   }
 ];
