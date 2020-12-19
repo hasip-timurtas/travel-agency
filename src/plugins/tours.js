@@ -1,5 +1,6 @@
 module.exports = [
   {
+    // sahte
     title: "Bosphorus Dinner Cruise",
     shortDesc: "Make you night unforgettable in the Bosphorus dinner curuse!",
     properties: [
@@ -31,6 +32,7 @@ module.exports = [
     }
   },
   {
+    // sahte
     title: "Bosphorus Sunset Yatch Tour",
     shortDesc: " Enjoy such a beautiful and unique experience as Bosphorous sunset cruise 💙",
     price: 260.0,
@@ -58,6 +60,7 @@ module.exports = [
     }
   },
   {
+    // sahte
     title: "Pamukkale Tour",
     shortDesc: "Enjoy such a beautiful and unique experience with a our special Pamukkale Tour",
     price: 260.0,
@@ -495,6 +498,47 @@ module.exports = [
       },
       {
         src: "/assets/tours/istanbul/istanbul-active-sea-life/4.jpg"
+      }
+    ],
+    category: {
+      name: "Istanbul Tours",
+      slug: "istanbul-tours"
+    }
+  },
+  {
+    title: "Bosphorus Dinner Cruise",
+    slug: "bosphorus-dinner-cruise-istanbul-night",
+    shortDesc: "Bosphorus Dinner Cruise Istanbul Night",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <h4><img src="/assets/secure-checkout.png" alt=""></h4>
+<br>
+<p>Your tour will start from your hotel. You will be transfered from your hotel to our boat by our non-smoking and air-conditioned shuttle buses.</p>
+<span>When you sit your table appetizers will be brought and you will commence your wonderful night with it.And then smiling waiters will take your order.Main course contains from 3 different options such as grilled sea bass , grilled meatballs and grilled chicken.</span><br><span>&nbsp;By the time dinner is over , the show will start with dance of tambourine and will be followed by Asuk Masuk ( Asuk Masuk is an Imitation Play of Dwarfs)</span><br><span>Naz Eyleme ( A Traditional Turkish Melody Musical Performance)</span><br><span>Belly Dancer</span><br><span>Henna Ceremony ( Bride ceromny before wedding)</span><br><span>Folk Team ( Mixed show from diffrent regions of Tukey)</span><br><span>Live Dj Performance.</span><br><span>&nbsp;</span><br><span>After the tour&nbsp; we will drop you off to the your hotel by our shuttle buses.</span><br><span><u><strong>DINNER MENU</strong></u></span><br><span>Turkish Meze (Turkish hors d'oeuvres dish</span><br><span>Fresh seasonal salad</span><br><span>Main Course ( Grilled Fish,Chicken Steak or Meatball )</span><br><span>Dessert ( Fruite or Sweet)</span><br><span>Turkish coffe</span><br><span>Unlimited soft drinks</span><br><span>Unlimited local drinks</span><br><br><strong><u>Attention :<span>&nbsp;45</span></u></strong><span><u><strong>&nbsp;euro for without alcohol price. If you want with alcohol you should pay extra 15 euro per person.</strong></u></span><span></span>
+<hr>
+<span><u>Included</u></span><br><span>Hotel Pick-up &amp; drop-off - by air-conditioned non-smoking tour coaches (only city center hotels)</span><br><span>Dinner</span><br><span>Unlimited local drinks ( include local wines, beers, spirits and soft drinks)&nbsp;</span><br><span>Services Charges &amp; Local Taxes.&nbsp;</span>
+<hr>
+<span><u>Excluded</u></span><br><span>Tips and gratuities Imported drinks&nbsp;</span><br><span>Notes: Advanced reservation required, not suitable for handicapped people.</span><br><span>Owing to traffic difficulties, pick-up may delay beyond our control.&nbsp;</span><br>
+<p>&nbsp;</p>
+  </div>`,
+    price: 45.0,
+    images: [
+      {
+        src: "/assets/tours/istanbul/bosphorus-dinner-cruise/1.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/bosphorus-dinner-cruise/2.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/bosphorus-dinner-cruise/3.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/bosphorus-dinner-cruise/4.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/bosphorus-dinner-cruise/5.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/bosphorus-dinner-cruise/6.jpg"
       }
     ],
     category: {
