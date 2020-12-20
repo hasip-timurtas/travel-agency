@@ -446,7 +446,7 @@ module.exports = [
 <p><em><strong>*Beykoz (Stop over)</strong><span>&nbsp;</span></em><br>The earliest settlement in Beykoz dates back to about 2700 years ago,in the Roman period and it is speculated that sailors who intended to sail towards the Black Sea made offerings and sacrifices to Zeus and Poseidon</p>
 <p>&nbsp;The Maiden's Tover&nbsp;</p>
 <p>Maiden's Toveris built firstly in 1110, by Byzantine Emperor Alexius Comnenus.Without our tour, you should go all the way to Kabataş on your own and catch a boat to be able to see clearly Maiden's Tower&nbsp;</p>
-<p><strong><em>﻿ST-8 includes Open Buffet Lunch on the Boat.</em></strong></p>
+<p><strong><em>ST-8 includes Open Buffet Lunch on the Boat.</em></strong></p>
 <p>&nbsp;</p>
   </div>`,
     price: 35.0,
