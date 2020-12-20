@@ -545,5 +545,48 @@ module.exports = [
       name: "Istanbul Tours",
       slug: "istanbul-tours"
     }
+  },
+  {
+    title: "Bosphorus Sunset Yacht Tour",
+    slug: "bosphorus-sunset-yacht-tour",
+    shortDesc: "Bosphorus Sunset Yacht Tour",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <h4><img src="/assets/secure-checkout.png" alt=""></h4>
+<h4><strong></strong></h4>
+<span>Enjoy such a beautiful and unique experience as Bosphorous sunset cruise 💙</span><br><span>⠀</span><br><span>You will swim between Europe and Asia on a comfortable nice private yacht, listen to your favorite music, taste various fresh fruits and enjoy the views of one of the most beautiful cities in the world 💙🤗</span><br><span>⠀</span><br><span>What can be better?</span>
+<p>&nbsp;</p>
+<p>Enjoy unique views, comfort and a relaxing environment on board. Private sunset tour, just for you and your chosen companions, loved ones, family or friends, nobody else.<br><br>You’ll see some of the most famous and beautiful highlights of the Bosphorus strait offering great photo opportunities to capture beautiful sunsets, waterfront palaces, mosques and mansions.<br><br>This cruise is ideal for couples, families or small groups of friends (up to 12 guests in total) wishing to experience the most delightful time of sunset over Istanbul's unique skyline, or to celebrate a special occasion or romantic evening.<br><br>After this evening cruise with ever-changing views, we can drop you off at selected piers or seaside restaurants along the Bosphorus, or to your hotel. A truly unbeatable location to sip champagne or cocktails in Istanbul. Highly recommended!<br><br><br><br>Sunset Cruise Schedule<br>Daily 17: 00-19: 00 *, 19: 00-21: 00 ** (duration: 2 hours)<br><br>Istanbul Sunset Times<br>Sunset Cruise during the 17: 00-19: 00.<br>** Sunset Cruise during March-April &amp; September-October period, the sunset sets during our 19: 00-21: 00.<br>*** During May-August, the sunset sets during our 20:00 departing Dinner or Evening Cruises.<br><br>Pick Up &amp; Drop Off:<br>We can collect you right from your hotel or cruiseship in Istanbul with round-trip hotel transfers for pick-up and drop-off provided (FREE for European-side city-center hotels or cruiseships - see these Istanbul neighborhoods , Arnavutköy and Kabatas piers (European Side), from Beylerbeyi and Kuleli piers (Asian Side), from selected Bosphorus hotels and restaurants with their own piers (for hotel residents / with restaurant reservation). (From any other locations, apartments, suites, residences, B &amp; Bs or private addresses, we will advise you to the nearest selected hotel or pier for you to come to for pick-up instead). See also additional restaurant drop-off points further above.<br><br>Capacity:<br>For Small Groups: Zoe Yacht is ideal for up to 12 guests.<br>For Larger Groups: We also offer a selection of large group sizes - please just email us with your requirements.<br><br>Pricing:<br>Click here to see all cruise prices for 2019<br><br>Special Occasions:<br>You can enhance your special occasion by adding a birthday cake, champagne and other extras while making a reservation in our online booking system.</p>
+  </div>`,
+    price: 260.0,
+    images: [
+      {
+        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/1.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/2.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/3.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/4.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/5.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/6.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/7.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/8.jpg"
+      }
+    ],
+    category: {
+      name: "Istanbul Tours",
+      slug: "istanbul-tours"
+    }
   }
 ];
