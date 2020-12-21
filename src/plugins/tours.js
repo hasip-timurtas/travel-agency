@@ -588,5 +588,41 @@ module.exports = [
       name: "Istanbul Tours",
       slug: "istanbul-tours"
     }
+  },
+  {
+    title: "Princes Island Tour",
+    slug: "princes-island-tour",
+    shortDesc: "Princes Island Tour",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <h2>
+<img src="/assets/secure-checkout.png" alt=""><strong></strong><span><u></u></span><br><br>
+</h2>
+<p>Princes' Islands, Phaeton Tour,Horse-drawn carriage tour,Heybeliada,Büyükada&nbsp;<br>Pick Up Location : Hotel pick-up &amp; drop-off service are available only from the hotels located in the city center. There may be an extra charge for transportations from other locations or airport.<br>Tour Depart From : Sultanahmet<br>Tour Start Time : 09:00 am<br><br><span><u>Included :&nbsp;</u></span><br>Hotel pick up &amp; drop off by air-conditioned non-smoking tour coaches<br>Lunch<br>Entrance fees<br>Professional licensed tour guide<br>Services charges &amp; local taxes</p>
+<hr>
+<p><span><u>Excluded;</u></span><br>Food,drink on the ferry to islands<br>Drinks<br>Personal expenses<br>Tips and gratitues</p>
+<h3></h3>
+  </div>`,
+    price: 55.0,
+    images: [
+      {
+        src: "/assets/tours/istanbul/princes-island-tour/1.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/princes-island-tour/2.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/princes-island-tour/3.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/princes-island-tour/4.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/princes-island-tour/5.jpg"
+      }
+    ],
+    category: {
+      name: "Istanbul Tours",
+      slug: "istanbul-tours"
+    }
   }
 ];
