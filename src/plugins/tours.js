@@ -624,5 +624,42 @@ module.exports = [
       name: "Istanbul Tours",
       slug: "istanbul-tours"
     }
+  },
+  {
+    title: "Green Bursa Full Day Tour",
+    slug: "green-bursa-full-day-tour",
+    shortDesc: "Green Bursa Full Day Tour",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <h2>
+<img src="/assets/secure-checkout.png" alt=""><strong>Green Bursa&nbsp;</strong><strong>Full day tour</strong>
+</h2>
+<p><strong>Bursa</strong><span>-Large city in northwest Turkey. It was the first capital of the Ottoman Empire between 1335-1363. The city has nickname Green Bursa(Yeşil Bursa) in reference to the parks and gardens,located across its urban fabrics,and richly varied forests of the surrounding region. The ski resort of mountain Uludağ towers over it.</span><br><strong>Green Mosque</strong><span>-It was built by architect Hacı Paşa at the request of Ottoman Sultan Mehmet Çelebi 1415-1419. Located on the city named Green,Green Mosque composes of mausoleum(tomb),madrasah,cultivation and turkish baths.</span><br><strong>Inkaya Village</strong><span>-Known for the most old (610 years) tree&nbsp;</span><span><strong>Çınar</strong>.</span><br><strong>Lunch(Drinks are extra)</strong><span>-You can choose kebab,chicken,beef,desert such as baklava and other delicious Turkish traditional food.</span><br><strong>Uludağ Mountain</strong><span>-The ancient Mysian Olympus and Bithynian Olympus,popular center for winter sports. We will have free time for walking,jeep safari.</span><br><strong>Cable Car</strong><span>-We will take the cable car from&nbsp;</span><strong>Uludağ(Olympos)</strong><span>&nbsp;mountain to Bursa,where you can enjoy a breath-taking panoramic view of Bursa.</span><br><br><span><u>Included</u></span><br><span>Hotel pick up &amp; drop off by air-conditioned non-smoking tour coaches</span><br><span>Entrance fees</span><br><span>Lunch</span><br><span>Professional licensed tour guide</span><br><span>Service charges &amp; local taxes</span><br><br><span><u>Excluded</u></span><br><span>Food,drink on the ferry from Gebze to Jalova</span><br><span>Drinks</span><br><span>Personal expenses</span><br><span>Tips and gratitues</span></p>
+<h3></h3>
+  </div>`,
+    price: 55.0,
+    images: [
+      {
+        src: "/assets/tours/bursa/green-bursa-full-day-tour/1.jpg"
+      },
+      {
+        src: "/assets/tours/bursa/green-bursa-full-day-tour/2.png"
+      },
+      {
+        src: "/assets/tours/bursa/green-bursa-full-day-tour/3.jpg"
+      },
+      {
+        src: "/assets/tours/bursa/green-bursa-full-day-tour/4.jpg"
+      },
+      {
+        src: "/assets/tours/bursa/green-bursa-full-day-tour/5.jpg"
+      },
+      {
+        src: "/assets/tours/bursa/green-bursa-full-day-tour/6.jpg"
+      }
+    ],
+    category: {
+      name: "Bursa Tours",
+      slug: "bursa-tours"
+    }
   }
 ];
