@@ -626,6 +626,41 @@ module.exports = [
     }
   },
   {
+    title: "Sapanca & Zoo tour",
+    slug: "sapanca-and-zoo-tour",
+    shortDesc: "Sapanca & Maşukiye & Zoo Sapanca Tour",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <h2>
+<img src="/assets/secure-checkout.png" alt=""><strong></strong>
+</h2>
+<p>&nbsp;</p>
+<p><strong>Sapanca &amp; Maşukiye &amp; Zoo Tour&nbsp;Full day tour<span>&nbsp; &nbsp;</span></strong><strong><br><span>We will pick you up from your hotel(city center hotels),then you will meet with your group and guide at the meeting point. We go to zoo which is the biggest zoo in Turkey. Sapanca lake will be the second stop. You can have a walk on lakeside or pedalling on the lake with nice lake view. Then,we will drive to Maşukiye Village to have lunch consisting of full organic stuff. Next,we will see Maşukiye waterfal. End of the tour back to Istanbul and we drop you off to your hotel. &nbsp; &nbsp; &nbsp;</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>Sapanca<span>-Town and district in the Sakarya province,near lake Sapanca. You can have a walk near lake or pedalling on the lake.</span><br>Maşukiye<span>-Small village located between lake Sapanca and Kartepe mountain. You will enjoy in the beauty of Maşukiye’s forest,waterfall,delicious food in restaurants of wood.</span><br>Lunch(Drinks are extra)<span>-You can choose kebab,pide,desert such as baklava and other delicious Turkish traditional food.</span><br>Mountain Kartepe<span>-Kartepe is a town and district of Kocaeli province. It was founded in 1600. Kartepe ski centre has been constructed 1650 m altitude over mountain Kartepe.&nbsp;</span><br><br><span>IMPORTANT NOTICE</span><br>During summer we don't visit Kartepe mountain,during winter time we don't visit Zoo</strong></p>
+<h3></h3>
+  </div>`,
+    price: 55.0,
+    images: [
+      {
+        src: "/assets/tours/istanbul/sapanca-masukiye-tour/1.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/sapanca-masukiye-tour/2.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/sapanca-masukiye-tour/3.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/sapanca-masukiye-tour/4.jpg"
+      },
+      {
+        src: "/assets/tours/istanbul/sapanca-masukiye-tour/5.jpg"
+      }
+    ],
+    category: {
+      name: "Istanbul Tours",
+      slug: "istanbul-tours"
+    }
+  },
+  {
     title: "Green Bursa Full Day Tour",
     slug: "green-bursa-full-day-tour",
     shortDesc: "Green Bursa Full Day Tour",
