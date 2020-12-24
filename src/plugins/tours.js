@@ -696,5 +696,54 @@ module.exports = [
       name: "Bursa Tours",
       slug: "bursa-tours"
     }
+  },
+  {
+    title: "Paragliding Tour",
+    slug: "paragliding-tour",
+    shortDesc: "Paragliding Tour",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
+<p><span class="head"><em><strong><br></strong></em></span></p>
+<div class="package-info">
+<div class="package-info">
+<i class="icon-tag"></i><br>
+</div>
+<div class="package-info">
+<p>INSURANCE, HOTEL PICK UP AND DROP OFF(IN FETHIYE).</p>
+<p>&nbsp;</p>
+</div>
+<div class="package-info">
+<div class="accordion-content">
+<p>&nbsp;</p>
+<h2 class="accordion-title">
+<span class="accordion-icon"></span>PARAGLIDING TOUR</h2>
+<div class="accordion-content">
+<p>Imagine yourself as a bird. You spread your wings and take flight. Feel the currents of air rushing past your face. Feel the wind in your hair. Look out to the majestic mountains on the horizon. Look down to the turquoise water and sand beaches below. This is a thrill most earthbound humans never have a chance to experience.</p>
+<p>Since 1999 we have been taking people to the top of Baba Dag to experience the thrill of flight. The eight full time pilots on our staff all have 10 to 15 years of experience and are Internationally Certified Tandem Pilots qualified to fly all over the world. All our pilots speak perfect English.</p>
+<p>We will pick you up at your hotel in Fethiye, Calis Beach or Ovacik and take you to the top of Baba Dag, 6,500 feet above sea level. The 40 minute drive in the comfort and safety of our new modern truck is a safari in itself.</p>
+</div>
+</div>
+</div>
+</div>
+  </div>`,
+    price: 120.0,
+    images: [
+      {
+        src: "/assets/tours/antalya/paragliding-tour/1.png"
+      },
+      {
+        src: "/assets/tours/antalya/paragliding-tour/2.png"
+      },
+      {
+        src: "/assets/tours/antalya/paragliding-tour/3.png"
+      },
+      {
+        src: "/assets/tours/antalya/paragliding-tour/4.png"
+      }
+    ],
+    category: {
+      name: "Antalya Tours",
+      slug: "antalya-tours"
+    }
   }
 ];
