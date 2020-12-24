@@ -161,6 +161,11 @@ export default {
             //icon: "mdi-book-open-outline",
             link: "/tours/pamukkale-tours",
           },
+          {
+            text: "Antalya Tours",
+            //icon: "mdi-book-open-outline",
+            link: "/tours/antalya-tours",
+          },
         ],
       },
       {

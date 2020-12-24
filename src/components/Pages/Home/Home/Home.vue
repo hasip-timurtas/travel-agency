@@ -2,7 +2,15 @@
   <div class="home">
     <slider />
     <v-row justify="center blue lighten-2" no-gutters>
-      <v-btn v-for="menu in menus" :key="menu.link" color="white" text rounded class="my-2" :to="menu.link">
+      <v-btn
+        v-for="menu in menus"
+        :key="menu.link"
+        color="white"
+        text
+        rounded
+        class="my-2"
+        :to="menu.link"
+      >
         {{ menu.name }}
       </v-btn>
     </v-row>
@@ -33,26 +41,30 @@ export default {
       menus: [
         {
           name: "Istanbul Tours",
-          link: "/tours/istanbul-tours"
+          link: "/tours/istanbul-tours",
         },
         {
           name: "Cappadocia Tours",
-          link: "/tours/cappadocia-tours"
+          link: "/tours/cappadocia-tours",
         },
         {
           name: "Pamukkale Tours",
-          link: "/tours/pamukkale-tours"
+          link: "/tours/pamukkale-tours",
+        },
+        {
+          name: "Antalya Tours",
+          link: "/tours/antalya-tours",
         },
         {
           name: "Airport Transfer",
-          link: "/airport-transfer"
-        }
-      ]
+          link: "/airport-transfer",
+        },
+      ],
     };
   },
   created() {
     //console.log(tours);
-  }
+  },
 };
 </script>
 <style lang="scss" scoped>
