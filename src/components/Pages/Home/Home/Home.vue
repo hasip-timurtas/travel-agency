@@ -16,15 +16,9 @@
     </v-row>
     <v-container fluid class="pa-0">
       <v-row class="home__cards d-flex">
-        <v-col><tour-widget :item="widgets[0]" /> </v-col>
-        <v-col><tour-widget :item="widgets[1]" /> </v-col>
-        <v-col><tour-widget :item="widgets[2]" /> </v-col>
-        <v-col><tour-widget :item="widgets[3]" /> </v-col>
-        <v-col><tour-widget :item="widgets[0]" /> </v-col>
-        <v-col><tour-widget :item="widgets[1]" /> </v-col>
-        <v-col><tour-widget :item="widgets[2]" /> </v-col>
-        <v-col><tour-widget :item="widgets[3]" /> </v-col>
-        <v-col><tour-widget :item="widgets[0]" /> </v-col>
+        <v-col v-for="item of widgets" :key="item.slug"
+          ><tour-widget :item="item" />
+        </v-col>
       </v-row>
     </v-container>
   </div>
