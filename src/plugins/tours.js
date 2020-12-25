@@ -669,5 +669,61 @@ module.exports = [
       name: "Antalya Tours",
       slug: "antalya-tours"
     }
+  },
+  {
+    title: "Antalya Daily City Tour",
+    slug: "antalya-daily-city-tour",
+    shortDesc: "Antalya Daily City Tour",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
+<p><span class="head"><em><strong>Duration:</strong></em><span>&nbsp;</span></span>1 Day</p>
+<p><span class="head"><em><strong>Location:</strong></em><span>&nbsp;</span></span>Antalya</p>
+<div class="package-info">
+<div class="package-info"><i class="icon-tag"></i></div>
+<div class="package-info"></div>
+<div class="package-info">
+<h2 class="accordion-title">ANTALYA CITY TOUR</h2>
+<div class="accordion-content">– Pick up from hotel<br>– Old City (Marina), Clock Tower<br>– Hadrian’s Gate, Broken Minaret<br>– Hıdırlık Tower
+<p>&nbsp;</p>
+<p>– Lunch Break</p>
+<p>– Duden Waterfalls (Falling)<br>– Archeological Museum<br>– Transfer Back to Hotel</p>
+<p>&nbsp;</p>
+<p><strong>Included Services :</strong></p>
+<p>• All admission fees,<br>• Professional English speaking guidance,<br>• Lunch,<br>• Taxes</p>
+<p><strong>Exclusions :</strong></p>
+<p>• Drinks<br>• Dinner</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+  </div>`,
+    price: 65.0,
+    images: [
+      {
+        src: "/assets/tours/antalya/daily-city-tour/1.jpg"
+      },
+      {
+        src: "/assets/tours/antalya/daily-city-tour/2.png"
+      },
+      {
+        src: "/assets/tours/antalya/daily-city-tour/3.png"
+      },
+      {
+        src: "/assets/tours/antalya/daily-city-tour/4.png"
+      },
+      {
+        src: "/assets/tours/antalya/daily-city-tour/5.png"
+      },
+      {
+        src: "/assets/tours/antalya/daily-city-tour/6.png"
+      },
+      {
+        src: "/assets/tours/antalya/daily-city-tour/7.png"
+      }
+    ],
+    category: {
+      name: "Antalya Tours",
+      slug: "antalya-tours"
+    }
   }
 ];
