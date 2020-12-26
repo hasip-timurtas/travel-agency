@@ -725,5 +725,58 @@ module.exports = [
       name: "Antalya Tours",
       slug: "antalya-tours"
     }
+  },
+  {
+    title: "Antalya Blue Cruise Tour",
+    slug: "antalya-blue-cruise-tour",
+    shortDesc: "Antalya Blue Cruise Tour 4 daus, 3 night Tour",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
+<p>&nbsp;</p>
+<div class="package-info">
+<span class="head"><em><strong>Duration:</strong></em><span>&nbsp;</span></span>4 Days, 3 Nights</div>
+<div class="package-info">
+<i class="icon-location-arrow"></i><span class="head"><em><strong>Location:</strong></em><span>&nbsp;</span></span>Antalya, Olympos, Fethiye</div>
+<div class="package-info">
+<strong><em><span class="head">Price:&nbsp;</span></em></strong><span>300 €</span>
+</div>
+<div class="package-info"><span></span></div>
+<div class="package-info">
+<p><strong>INCULUDING:</strong></p>
+<p>BREAKFAST,LUNCH,DINNER,INSURANCE,TAXES</p>
+<p>(BEVERAGES ARE EXCLUDING)</p>
+</div>
+<div class="package-info"><span></span></div>
+<div class="package-info">
+<h2 class="accordion-title">BLUE CRUISE TOUR</h2>
+<div class="accordion-content">
+<p>Olympos to Fethiye 4 day, 3 night cruise is the most popular route along the Turquoise Coastline. Travelling on a standard gulet, this cruise has something for everyone. From the ancient cities and sights to crystal clear waters for swimming and snorkelling.</p>
+<p>You leave Olympos / Demre Harbour bound for the famous Sunken City of Kekova and Simena Castle. Here you can enter the castle grounds and visit the ruins of the Castle for some sweeping views over the ocean you will soon to be travelling along. The following day you get to visit the beautiful little fishing village of Kas. There is time for a spot of shopping and plenty of swimming along the way. The following morning you will wake up in Butterfly Valley where you can take the time to hike in the valley or just in enjoy the vivid blue ocean for a swim. You will then cruise past Europe’s most photographed beach, Oludeniz, anchoring on the back side of the Blue Lagoon before you will finally anchor down at St Nicholas Island, where you can go and explore the ruins and enjoy your last night on the boat. Throughout your cruise you and the other guests will be offered the chance to undertake some optional activities of paragliding and diving, you will get the chance to relax and swim in some stunning bays, whilst the whole time enjoying a plentiful of Turkish dishes and hospitality.</p>
+</div>
+</div>
+<p>&nbsp;</p>
+  </div>`,
+    price: 330.0,
+    images: [
+      {
+        src: "/assets/tours/antalya/blue-cruise-tour/1.png"
+      },
+      {
+        src: "/assets/tours/antalya/blue-cruise-tour/2.png"
+      },
+      {
+        src: "/assets/tours/antalya/blue-cruise-tour/3.png"
+      },
+      {
+        src: "/assets/tours/antalya/blue-cruise-tour/4.png"
+      },
+      {
+        src: "/assets/tours/antalya/blue-cruise-tour/5.png"
+      }
+    ],
+    category: {
+      name: "Antalya Tours",
+      slug: "antalya-tours"
+    }
   }
 ];
