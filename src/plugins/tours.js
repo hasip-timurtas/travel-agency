@@ -622,7 +622,7 @@ module.exports = [
     }
   },
   {
-    title: "Paragliding Tour",
+    title: "Antalya Paragliding Tour",
     slug: "paragliding-tour",
     shortDesc: "Paragliding Tour",
     description: `<div class="rte product-single__description" itemprop="description">
@@ -772,6 +772,54 @@ module.exports = [
       },
       {
         src: "/assets/tours/antalya/blue-cruise-tour/5.png"
+      }
+    ],
+    category: {
+      name: "Antalya Tours",
+      slug: "antalya-tours"
+    }
+  },
+  {
+    title: "Antalya Termesos & Duden Waterfall Tour",
+    slug: "antalya-termesos-and-duden-waterfall-tour",
+    shortDesc: "Antalya Termesos & Duden Waterfall Tour",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
+<p>&nbsp;</p>
+<h2 class="accordion-title">TERMESOS &amp; DUDEN WATERFALL TOUR</h2>
+<div class="package-info"><em><strong><span class="head">Duration:&nbsp;</span>1 Day</strong></em></div>
+<div class="package-info"><em><strong><span class="head">Location:&nbsp;</span>Antalya, Termesos, Duden Waterfall</strong></em></div>
+<div class="package-info"></div>
+<div class="package-info"></div>
+<div class="accordion-content">
+<p>Termessos (or Thermessos) was a Pisidian city built at an altitude of more than 1000 meters at the South West side of the mounatin Solymos (modern day Gulluk Dagi) in the Taurus mountain range.</p>
+<p>It lies 30km to the North West of Antalya. It was founded on a natural platform on top og Gulluk Dagi soaring to a height of 1,665 meters from among the surrounding travertine mountains of Antalya which average only 200 meters above sea level. Termessoss is one of the best preserved and untouched ancient cities in Turkey.</p>
+<p>Termessos constitutesan unusual synthesis of a large number of rare plants and animal species which are under protection in the Termessos National Park. Concealed by a ultitude of wild plants and bounded by dense pine forest, the site, with its peaceful and untouched appearance, has a more distinct and and impressive atmosphere than other ancient cities. Becuase of its natural and historical riches, the city has been included in a National Park bearing its name.</p>
+<p>Visting Termessos we have lunch close to the Duden Waterfall.</p>
+<p>&nbsp;</p>
+</div>
+<p>&nbsp;</p>
+<p><strong>Included Services :</strong></p>
+<p>•<br>•<br>• All admission fees,<br>• Professional English speaking guidance,<br>• Lunch,<br>• Taxes</p>
+<p><strong>Exclusions :</strong></p>
+<p>• Drinks<br>• Dinner</p>
+  </div>`,
+    price: 60.0,
+    images: [
+      {
+        src: "/assets/tours/antalya/termesos-duden-waterfall-tour/1.png"
+      },
+      {
+        src: "/assets/tours/antalya/termesos-duden-waterfall-tour/2.png"
+      },
+      {
+        src: "/assets/tours/antalya/termesos-duden-waterfall-tour/3.png"
+      },
+      {
+        src: "/assets/tours/antalya/termesos-duden-waterfall-tour/4.png"
+      },
+      {
+        src: "/assets/tours/antalya/termesos-duden-waterfall-tour/5.png"
       }
     ],
     category: {
