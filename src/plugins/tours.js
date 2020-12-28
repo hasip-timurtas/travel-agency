@@ -826,5 +826,44 @@ module.exports = [
       name: "Antalya Tours",
       slug: "antalya-tours"
     }
+  },
+  {
+    title: "Antalya Termesos & Duden Waterfall Tour",
+    slug: "antalya-termesos-and-duden-waterfall-tour",
+    shortDesc: "Antalya Termesos & Duden Waterfall Tour",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
+<p><span style="color: #000000;">IZMIR&nbsp;<i class="fa fa-long-arrow-right"></i>&nbsp;EPHESUS&nbsp;<i class="fa fa-long-arrow-right"></i>&nbsp;PAMUKKALE</span></p>
+<p><span style="color: #ff0000;">All year round&nbsp; – Everyday</span><br><br><strong>Day 1&nbsp;</strong>We start your travel from your hotel in Istanbul and flight to Izmir. After flight we drive to Selcuk and visit the House of Virgin Mary where she is believed to spend her last days. We proceed to ancient city of Ephesus, the wealthiest city of the ancient world and the best preserved one in the today’s world. Ruins include a theater, Gymnasium, Agora, Odeon, Bouleterion, Fountains and the Library of Celsus. After lunch we visit the St. John’s Basilica and his tomb and the Temple of Artemis considered as one of the Seven Wonders of the world. Overnight in Kusadasi.</p>
+<p><strong>Day 2&nbsp;</strong>After breakfast we drive to Pamukkale which is the center of natural thermal spring waters with healing properties. Due to the chemical properties in the water, pure white colored travertines and stepped water terraces have been created on the mountain slope. It is for its resemblence to cotton piles that it is called ‘Cotton Castle’ in Turkish. We visit the travertines and the ancient city of Hierapolis which has the biggest Nekropol with 1200 gravestones in Anatolia. The sacred pool also is one of the highlights of the site. There shallow thermal waters ripple over a wonderful scattering of ancient roman ruins that lie beneath</p>
+<p>We return to istanbul after two days of pleasant tour. Your transfers are provided by vipmesst travel representative</p>
+<p><span><strong><u>What are included?</u></strong></span><br>-Accomodation<br><span>-All transfers<br>-Professional tour guide<br>-Entrance fees for museums and archeological sites<br>-Lunch in a local restaurant</span></p>
+<p><span><strong><u>What are excluded?</u></strong></span><br><span>-Domestic flights<br>-Dinner<br>-Entrance fee for Cleopatra Pool<br>-Personal expenses, tips and drinks</span></p>
+  </div>`,
+    price: 320.0,
+    images: [
+      {
+        src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/1.jpg"
+      },
+      {
+        src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/2.jpg"
+      },
+      {
+        src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/3.jpg"
+      },
+      {
+        src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/4.jpg"
+      },
+      {
+        src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/5.jpg"
+      },
+      {
+        src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/6.jpg"
+      }
+    ],
+    category: {
+      name: "Pamukkale Tours",
+      slug: "pamukkale-tours"
+    }
   }
 ];
