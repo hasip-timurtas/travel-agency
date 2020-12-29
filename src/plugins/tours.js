@@ -828,9 +828,9 @@ module.exports = [
     }
   },
   {
-    title: "Antalya Termesos & Duden Waterfall Tour",
-    slug: "antalya-termesos-and-duden-waterfall-tour",
-    shortDesc: "Antalya Termesos & Duden Waterfall Tour",
+    title: "Ephesus - Pamukkale - Hireapolis Tour",
+    slug: "pamukkale-ephesus-hireapolis-tour",
+    shortDesc: "Ephesus - Pamukkale - Hireapolis Tour",
     description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
 <p><span style="color: #000000;">IZMIR&nbsp;<i class="fa fa-long-arrow-right"></i>&nbsp;EPHESUS&nbsp;<i class="fa fa-long-arrow-right"></i>&nbsp;PAMUKKALE</span></p>
@@ -859,6 +859,38 @@ module.exports = [
       },
       {
         src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/6.jpg"
+      }
+    ],
+    category: {
+      name: "Pamukkale Tours",
+      slug: "pamukkale-tours"
+    }
+  },
+  {
+    title: "Pamukkale Day Tour",
+    slug: "pamukkale-day-tour",
+    shortDesc: "Pamukkale Day Tour",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
+<p>&nbsp;</p>
+<p><strong>Afrodisias<span>&nbsp;</span></strong><span>is located approx 90 kms from&nbsp;</span><strong>Pamukkale</strong><span>&nbsp;and is one of the oldest sacred sites in Turkey. Dedicated to the ancient&nbsp;</span><strong>Mother Goddess</strong><span>&nbsp;and then the Greek goddess&nbsp;</span><strong>Aphrodite</strong><span>, it was the site of a magnificent&nbsp;</span><strong>Temple of Aphrodite</strong><span>&nbsp;and the home of a renowned school of marble sculpture. Tours to&nbsp;</span><strong>Afrodisias</strong><span>&nbsp;leave everyday (high season). The bus will pick you up from the hotel at 9:30 am and will return to Pamukkale approx 3:30pm.</span></p>
+  </div>`,
+    price: 60.0,
+    images: [
+      {
+        src: "/assets/tours/pamukkale/pamukkale-day-tour/5.jpg"
+      },
+      {
+        src: "/assets/tours/pamukkale/pamukkale-day-tour/1.jpg"
+      },
+      {
+        src: "/assets/tours/pamukkale/pamukkale-day-tour/2.jpg"
+      },
+      {
+        src: "/assets/tours/pamukkale/pamukkale-day-tour/3.jpg"
+      },
+      {
+        src: "/assets/tours/pamukkale/pamukkale-day-tour/4.jpg"
       }
     ],
     category: {
