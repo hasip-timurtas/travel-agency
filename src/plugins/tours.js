@@ -897,5 +897,36 @@ module.exports = [
       name: "Pamukkale Tours",
       slug: "pamukkale-tours"
     }
+  },
+  {
+    title: "Pamukkale Pragliding",
+    slug: "pamukkale-pragliding",
+    shortDesc: "Pamukkale Pragliding",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
+<p>&nbsp;</p>
+<p><span><strong>Paragliding above Ancient City Hierapolis</strong></span></p>
+<p>&nbsp;</p>
+<p>An amazing experience for adventure and adrenaline lovers in Pamukkale. Join us and jump from an air craft.</p>
+<p>Paragliding in Pamukkale is one of the best experiences for adventure sport lovers. Paragliding in Pamukkale is safe, joyful and unforgetable.Paragliding in Pamukkale is operated with and expert tandem, its safe and comfortable.</p>
+<p>We offer you a tandem paragliding experience of a lifetime, like many other people make your dream to come true.</p>
+<p>Picture yourself, comfortable seated, gliding above the white world of Pamukkale and enjoying the magnificent view. The flight will take about 35 minutes. The flights can be done from 8.00 am till 18.00 pm.</p>
+<p>Paragliding in Pamukkale is available everyday, all year round.</p>
+<p>This tour is for you if you are looking Adventure sports in Cappadocia, extreme sports in Cappadocia.</p>
+<p><span></span>.</p>
+  </div>`,
+    price: 110.0,
+    images: [
+      {
+        src: "/assets/tours/pamukkale/pamukkale-pragliding/1.jpg"
+      },
+      {
+        src: "/assets/tours/pamukkale/pamukkale-pragliding/2.jpg"
+      }
+    ],
+    category: {
+      name: "Pamukkale Tours",
+      slug: "pamukkale-tours"
+    }
   }
 ];
