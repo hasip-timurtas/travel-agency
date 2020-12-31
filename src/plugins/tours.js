@@ -928,5 +928,30 @@ module.exports = [
       name: "Pamukkale Tours",
       slug: "pamukkale-tours"
     }
+  },
+  {
+    title: "Aphrodisias Tour",
+    slug: "aphrodisias-tour",
+    shortDesc: "Aphrodisias Tour",
+    description: `<div class="rte product-single__description" itemprop="description">
+    <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
+<p>&nbsp;</p>
+<p><span>We begin with visit to the&nbsp;</span><strong>Red Springs</strong><span>, located in&nbsp;</span><strong>Karahayit</strong><span>, a village close to&nbsp;</span><strong>Pamukkale</strong><span>. Marvel at the water which is coloured red due to its high iron content.Next we visit the ruins of the ancient&nbsp;</span><strong>Roman</strong><span>&nbsp;spa town of&nbsp;</span><strong>Hierapolis</strong><span>, used as a spa since the 2nd Century, with people travelling from all over in the hope that the thermal water would cure their ailments. The town was a very wealthy one, and rebuilding following an earthquake saw&nbsp;</span><strong>Hierapolis</strong><span>expanded to include two&nbsp;</span><strong>Roman baths</strong><span>, a gymnasium, temples and a colonnaded main street. Over time, Hierapolis became one of the most influential&nbsp;</span><strong>Roman</strong><span>&nbsp;cities in the areas of arts, philosophy and trade. Today, the&nbsp;</span><strong>World Heritage</strong><span>-listed site is under restoration, and the theatre and the necropolis alone make the site well worth a visit. Our tour includes a visit to the museum, although please note that it is closed on Mondays.After taking you through Hierapolis, your guide will give you some information about the famous white travertines (calcium pools) which are part of the Hierapolis site, and give you free time to explore or swim in the&nbsp;</span><strong>Cleopatra Antique Pool</strong><span>.</span></p>
+<p>&nbsp;</p>
+<p>Tour concludes with a late buffet lunch. You will be dropped back to your hotel.</p>
+  </div>`,
+    price: 80.0,
+    images: [
+      {
+        src: "/assets/tours/pamukkale/aphrodisias-tour/1.jpg"
+      },
+      {
+        src: "/assets/tours/pamukkale/aphrodisias-tour/2.jpg"
+      }
+    ],
+    category: {
+      name: "Pamukkale Tours",
+      slug: "pamukkale-tours"
+    }
   }
 ];
