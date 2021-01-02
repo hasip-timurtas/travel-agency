@@ -50,6 +50,10 @@ export default {
           link: "/tours/antalya-tours",
         },
         {
+          name: "Ephesus Tours",
+          link: "/tours/ephesus-tours",
+        },
+        {
           name: "Airport Transfer",
           link: "/airport-transfer",
         },

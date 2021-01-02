@@ -1,8 +1,8 @@
 module.exports = [
-  {
-    title: "Cappadocia Tour 2",
-    shortDesc: "Cappadocia 2 days tour with cave hotel",
-    description: `<div class="rte product-single__description" itemprop="description">
+    {
+        title: "Cappadocia Tour 2",
+        shortDesc: "Cappadocia 2 days tour with cave hotel",
+        description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
 <div class="rte__table-wrapper"><table width="100%">
 <tbody>
@@ -41,37 +41,37 @@ module.exports = [
 <p>&nbsp;</p>
 <p><span>***Please Note*** With this 2-day tour, you will see all the beauties of Cappadocia at a limited time.Due to this limited time, flights to Cappadocia are the first flights in the morning. (Usually 06.40 am flight, subject to availability).Your pick up time from Istanbul hotel will be around 04 am.</span></p>
   </div>`,
-    price: 360.0,
-    images: [
-      {
-        src: "/assets/tours/cappadocia/tour-2/1.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/tour-2/2.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/tour-2/3.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/tour-2/4.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/tour-2/5.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/tour-2/6.jpg"
-      }
-    ],
-    slug: "cappadocia-tour-2",
-    category: {
-      name: "Cappadocia Tours",
-      slug: "cappadocia-tours"
-    }
-  },
-  {
-    title: "Cappadocia Baloon",
-    shortDesc: "Hot Air Baloon Flight Cappadocia",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 360.0,
+        images: [
+            {
+                src: "/assets/tours/cappadocia/tour-2/1.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/tour-2/2.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/tour-2/3.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/tour-2/4.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/tour-2/5.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/tour-2/6.jpg"
+            }
+        ],
+        slug: "cappadocia-tour-2",
+        category: {
+            name: "Cappadocia Tours",
+            slug: "cappadocia-tours"
+        }
+    },
+    {
+        title: "Cappadocia Baloon",
+        shortDesc: "Hot Air Baloon Flight Cappadocia",
+        description: `<div class="rte product-single__description" itemprop="description">
     <h3>Hot Air Balloon Flight</h3>
 <h4><span>CAPPADOCIA</span></h4>
 <p>&nbsp;</p>
@@ -81,92 +81,92 @@ module.exports = [
 <p><span><u><strong>What's Included:</strong></u></span><br>• Transfers<br>• Light breakfast<br>• 1-hour hot air balloon flight standart balloon<br>• 1,5 -hour hot air balloon flight deluxe&nbsp;balloon<br>• Champagne toast<br>• Personnel flight certificate<br>• Full insurance<br><br><span><u><strong>What's Not Included:</strong></u></span><br>• Tips and souvenirs<br>• Accomodation<br>• Flight Tickets<br><br><span><u><strong>Good to Know:</strong></u></span><br>• Children younger than 6 years old fly for free. Children must be accompanied by a responsible adult at all times<br>• Vendor reserves the right to cancel a flight if weather conditions might create a risk in terms of flight security. Your flight will be&nbsp;refunded in full, or your booking can be transferred to the next day if a place is available<br>• Standart balloons accommodate 16-24-28 passengers<br>• Deluxe&nbsp;balloons accommodate 8-16&nbsp;passengers<>• Please contact vendor with your accommodation details to arrange pick-up time</p>
 <h2><strong><span><u>Not:Deluxe balloon flight price is 180 euro per person and&nbsp;&nbsp;flight 1,5 hour.</u></span></strong></h2>
   </div>`,
-    price: 190.0,
-    images: [
-      {
-        src: "/assets/tours/cappadocia/baloon/1.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/baloon/2.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/baloon/3.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/baloon/4.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/baloon/5.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/baloon/6.jpg"
-      }
-    ],
-    slug: "cappadocia-baloon",
-    category: {
-      name: "Cappadocia Tours",
-      slug: "cappadocia-tours"
-    }
-  },
-  {
-    title: "Cappadocia Horseback",
-    shortDesc: "Horseback Ridign Tours",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 190.0,
+        images: [
+            {
+                src: "/assets/tours/cappadocia/baloon/1.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/baloon/2.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/baloon/3.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/baloon/4.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/baloon/5.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/baloon/6.jpg"
+            }
+        ],
+        slug: "cappadocia-baloon",
+        category: {
+            name: "Cappadocia Tours",
+            slug: "cappadocia-tours"
+        }
+    },
+    {
+        title: "Cappadocia Horseback",
+        shortDesc: "Horseback Ridign Tours",
+        description: `<div class="rte product-single__description" itemprop="description">
     <p><strong>Cappadocia, Horseback Riding Tours</strong></p>
 <p><span>Cappadocia, known as the “Land of Beautiful Horses” is the ideal place to explore on horseback. Horses have held a distinctive place in Cappadocia history for thousands of years and the unique landscapes around Goreme are perfect for exploring on a native Anatolian or Arabic horse – with a real Turkish cowboy!Well away from the crowds, explore the fascinating valleys and breathtaking vistas around Goreme during a 2- or 4-hour trail ride. We also offer all-day trail rides and multiple-day excursions on horseback.The 2 hour ride is 50 Euro per person. <br> You will travel through some of the most beautiful valleys in Cappadocia – Swords Valley, Meskendir Valley, Rose Valley and Love Valley. Ride among the apple, apricot, walnut and quince orchards as well as the grape vines used for local wines. The trails wind up through volcanic stone hills passing many beautiful fairy chimneys and churches along the way – with breathtaking vistas on mountain tops and unique landscapes in every direction. We also offer 4 hour tours for 85 Euro per person. These tours visit the valleys listed above but also include the beautiful Pigeon, White and Zemi Valleys. We can also organize private full-day, multi-day horseback riding excursions as well as full-moon tours Awith a bonfire/campfire in the mountains (weather permitting). Please do not hesitate to ask us for more information on horseback riding in Cappadocia. Additional Information on horse riding tours: Some riding experience is recommended as there are several areas where you may be required to dismount and walk the horse and then mount the horse again to continue the tour. The Turkish cowboy will be with you the entire time for assistance but you will be expected to handle your horse during the tour. Helmets are available at the ranch upon request. Depending on the season, a light jacket may be necessary as you will be at different elevations during the tour. Comfortable clothing and flat shoes are recommended. We will pick you up at your hotel in Goreme or Urgup and deliver you to the ranch located near the Goreme Open Air Museum.</span></p>
   </div>`,
-    price: 50.0,
-    images: [
-      {
-        src: "/assets/tours/cappadocia/horseback-riding-tours/1.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/horseback-riding-tours/2.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/horseback-riding-tours/3.jpg"
-      }
-    ],
-    slug: "cappadocia-horseback",
-    category: {
-      name: "Cappadocia Tours",
-      slug: "cappadocia-tours"
-    }
-  },
-  {
-    title: "Cappadocia Quad Safari",
-    shortDesc: "Cappadocia Quad Safari",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 50.0,
+        images: [
+            {
+                src: "/assets/tours/cappadocia/horseback-riding-tours/1.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/horseback-riding-tours/2.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/horseback-riding-tours/3.jpg"
+            }
+        ],
+        slug: "cappadocia-horseback",
+        category: {
+            name: "Cappadocia Tours",
+            slug: "cappadocia-tours"
+        }
+    },
+    {
+        title: "Cappadocia Quad Safari",
+        shortDesc: "Cappadocia Quad Safari",
+        description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;</p>
 <h2><img src="/assets/secure-checkout.png" alt=""></h2>
 <p><em><strong>Cappadocia Quad Safari</strong></em></p>
 <p><span>A</span><span> great way to get right into the Cappadocia Valley! Take a half or full-day guided tour through the most beautiful of Cappadocia’s spectacular rock-cut valleys on a sturdy ATV (quad) bike. These tours are a great activity option for those seeking a few hours of fun and adventure outdoors. ATVs provide an opportunity for great sight-seeing, as one is enabled to roam the hills, valleys, dunes, and trails of the Cappadocia.A variety of ATV tours, lasting from 2 to 8 hours, are available in Paran tour Travel Agency. All tours include a guide. The two hours tour is the most common. 2 hours ATV tour is 65 Euro per person including a guide with another ATV.</span></p>
   </div>`,
-    price: 65.0,
-    images: [
-      {
-        src: "/assets/tours/cappadocia/quad-safari/1.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/quad-safari/2.png"
-      },
-      {
-        src: "/assets/tours/cappadocia/quad-safari/3.png"
-      },
-      {
-        src: "/assets/tours/cappadocia/quad-safari/4.png"
-      }
-    ],
-    slug: "cappadocia-quad-safary",
-    category: {
-      name: "Cappadocia Tours",
-      slug: "cappadocia-tours"
-    }
-  },
-  {
-    title: "North Cappadocia",
-    shortDesc: "North Cappadocia Red Tour",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 65.0,
+        images: [
+            {
+                src: "/assets/tours/cappadocia/quad-safari/1.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/quad-safari/2.png"
+            },
+            {
+                src: "/assets/tours/cappadocia/quad-safari/3.png"
+            },
+            {
+                src: "/assets/tours/cappadocia/quad-safari/4.png"
+            }
+        ],
+        slug: "cappadocia-quad-safary",
+        category: {
+            name: "Cappadocia Tours",
+            slug: "cappadocia-tours"
+        }
+    },
+    {
+        title: "North Cappadocia",
+        shortDesc: "North Cappadocia Red Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
 <p><strong><u></u></strong><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><br><br><span>South Cappadocia tour also known as Green tour at Lonely Planet’s recommendations. It’s a great itinerary which covers all highlights of the South Cappadocia and when combined with North Cappadocia tour at second day, two tours would cover all Cappadocia’s highlights.</span><strong>DERINKUYU UNDERGROUND CITY</strong><br><span>Derinkuyu is Cappadocia’s biggest underground with approximately 7 floors and 85m deep. It contains all the usual rooms found in an underground city (stables, cellars, storage rooms, refectories, churches, wineries etc). Apart from these, a large room with a barrel vaulted ceiling on the second floor was a missionary school, the rooms to the left being study rooms. From the 3rd and 4th floors onwards the descent is by way of vertical staircases, which lead to a cruciform plan church on the lowest floor. The 55m deep ventilation shaft was also used as a well. Not every floor was provided with surface access in order to protect the dwellers from poisoning during raids. Derinkuyu Underground City was opened to visitors in 1965 but so far only 10% can be visited.</span></p>
 <p>&nbsp;</p>
@@ -176,25 +176,25 @@ module.exports = [
 <p><strong>SELIME MONASTRY</strong><br>Selime Monastery is an astonishing rock cut structure incorporating a vast kitchen and soaring chimney. A church with a gallery all around it, stables with feeding troughs and other evidence of the troglodyte lifestyle.</p>
 <p><strong>GOREME ESENTEPE (PANAROMIC VIEW)</strong><br>The magnificent landscape around Goreme has been formed from its solidified lava streams, its ash and tuff stone, all dating from the Neocene period. A result of thousands of years of continual erosion makes this area look like a lunar landscape. The fairy chimneys also have a great colour variety. There are light and dark colours from white to yellow, pink, grey and black.</p>
   </div>`,
-    price: 60.0,
-    images: [
-      {
-        src: "/assets/tours/cappadocia/red-tour/1.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/red-tour/2.jpg"
-      }
-    ],
-    slug: "north-cappadocia-red-tour",
-    category: {
-      name: "Cappadocia Tours",
-      slug: "cappadocia-tours"
-    }
-  },
-  {
-    title: "South Cappadocia",
-    shortDesc: "South Cappadocia Green Tour",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 60.0,
+        images: [
+            {
+                src: "/assets/tours/cappadocia/red-tour/1.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/red-tour/2.jpg"
+            }
+        ],
+        slug: "north-cappadocia-red-tour",
+        category: {
+            name: "Cappadocia Tours",
+            slug: "cappadocia-tours"
+        }
+    },
+    {
+        title: "South Cappadocia",
+        shortDesc: "South Cappadocia Green Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
 <p><strong><u></u></strong><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><br><br><span>South Cappadocia tour also known as Green tour at Lonely Planet’s recommendations. It’s a great itinerary which covers all highlights of the South Cappadocia and when combined with North Cappadocia tour at second day, two tours would cover all Cappadocia’s highlights.</span><strong>DERINKUYU UNDERGROUND CITY</strong><br><span>Derinkuyu is Cappadocia’s biggest underground with approximately 7 floors and 85m deep. It contains all the usual rooms found in an underground city (stables, cellars, storage rooms, refectories, churches, wineries etc). Apart from these, a large room with a barrel vaulted ceiling on the second floor was a missionary school, the rooms to the left being study rooms. From the 3rd and 4th floors onwards the descent is by way of vertical staircases, which lead to a cruciform plan church on the lowest floor. The 55m deep ventilation shaft was also used as a well. Not every floor was provided with surface access in order to protect the dwellers from poisoning during raids. Derinkuyu Underground City was opened to visitors in 1965 but so far only 10% can be visited.</span></p>
 <p>&nbsp;</p>
@@ -204,25 +204,25 @@ module.exports = [
 <p><strong>SELIME MONASTRY</strong><br>Selime Monastery is an astonishing rock cut structure incorporating a vast kitchen and soaring chimney. A church with a gallery all around it, stables with feeding troughs and other evidence of the troglodyte lifestyle.</p>
 <p><strong>GOREME ESENTEPE (PANAROMIC VIEW)</strong><br>The magnificent landscape around Goreme has been formed from its solidified lava streams, its ash and tuff stone, all dating from the Neocene period. A result of thousands of years of continual erosion makes this area look like a lunar landscape. The fairy chimneys also have a great colour variety. There are light and dark colours from white to yellow, pink, grey and black.</p>
   </div>`,
-    price: 60.0,
-    images: [
-      {
-        src: "/assets/tours/cappadocia/green-tour/1.jpg"
-      },
-      {
-        src: "/assets/tours/cappadocia/green-tour/2.jpg"
-      }
-    ],
-    slug: "south-cappadocia-green-tour",
-    category: {
-      name: "Cappadocia Tours",
-      slug: "cappadocia-tours"
-    }
-  },
-  {
-    title: "Byzantine & Ottoman Traces",
-    shortDesc: "Byzantine & Ottoman Traces ST-03",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 60.0,
+        images: [
+            {
+                src: "/assets/tours/cappadocia/green-tour/1.jpg"
+            },
+            {
+                src: "/assets/tours/cappadocia/green-tour/2.jpg"
+            }
+        ],
+        slug: "south-cappadocia-green-tour",
+        category: {
+            name: "Cappadocia Tours",
+            slug: "cappadocia-tours"
+        }
+    },
+    {
+        title: "Byzantine & Ottoman Traces",
+        shortDesc: "Byzantine & Ottoman Traces ST-03",
+        description: `<div class="rte product-single__description" itemprop="description">
 <h2><img src="/assets/secure-checkout.png" alt="">
 </h2>
 <p><strong><em>Full Day City Tour with Lunch and Entrance fees Included</em></strong></p>
@@ -244,28 +244,28 @@ module.exports = [
 <p>&nbsp;</p>
 <p><span style="color: #ff0000;">!&nbsp;Hagia Sophia will be replaced by Yerebatan Cistem on Monday.Blue Mosque will be replaced by Nuruosmaniye Mosque on Friday. Topkapı Palace is cloced on Tuesday. Grand Bazaar is closed on Sunday.Vehicle will be used only for the necessary part of this tour.So please be prepared for a bit walking during the day.</span></p>
   </div>`,
-    price: 60.0,
-    images: [
-      {
-        src: "/assets/tours/istanbul/byzantine-ottoman-traces/1.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/byzantine-ottoman-traces/2.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/byzantine-ottoman-traces/3.jpg"
-      }
-    ],
-    slug: "byzantine-ottoman-traces-tour",
-    category: {
-      name: "Istanbul Tours",
-      slug: "istanbul-tours"
-    }
-  },
-  {
-    title: "From Ottomans To Today",
-    shortDesc: "From Ottomans To Today ST-04",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 60.0,
+        images: [
+            {
+                src: "/assets/tours/istanbul/byzantine-ottoman-traces/1.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/byzantine-ottoman-traces/2.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/byzantine-ottoman-traces/3.jpg"
+            }
+        ],
+        slug: "byzantine-ottoman-traces-tour",
+        category: {
+            name: "Istanbul Tours",
+            slug: "istanbul-tours"
+        }
+    },
+    {
+        title: "From Ottomans To Today",
+        shortDesc: "From Ottomans To Today ST-04",
+        description: `<div class="rte product-single__description" itemprop="description">
     <h2><img src="/assets/secure-checkout.png" alt=""></h2>
 <p><em><strong>Full Day City Tour with Lunch and Entrance Included</strong></em></p>
 <p><em><strong>Topkapı Palace&nbsp;</strong></em></p>
@@ -283,34 +283,34 @@ module.exports = [
 <p><span style="color: #ff0000;">! Blue Mosque will be replaced by Nuruosmaniye Mosque on Friday. Topkapı Palace is cloced on Tuesday. Grand Bazaar is closed on Sunday&nbsp;Vehicle will be used only for the necessary part of this tour.So please be prepared for a bit walking during the day.</span></p>
 <h3></h3>
   </div>`,
-    price: 60.0,
-    images: [
-      {
-        src: "/assets/tours/istanbul/from-ottomans-to-today/1.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/from-ottomans-to-today/2.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/from-ottomans-to-today/3.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/from-ottomans-to-today/4.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/from-ottomans-to-today/5.jpg"
-      }
-    ],
-    slug: "from-ottomans-to-today-tour",
-    category: {
-      name: "Istanbul Tours",
-      slug: "istanbul-tours"
-    }
-  },
-  {
-    title: "Istanbul True Discovery",
-    shortDesc: "Istanbul True Discovery ST-06",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 60.0,
+        images: [
+            {
+                src: "/assets/tours/istanbul/from-ottomans-to-today/1.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/from-ottomans-to-today/2.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/from-ottomans-to-today/3.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/from-ottomans-to-today/4.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/from-ottomans-to-today/5.jpg"
+            }
+        ],
+        slug: "from-ottomans-to-today-tour",
+        category: {
+            name: "Istanbul Tours",
+            slug: "istanbul-tours"
+        }
+    },
+    {
+        title: "Istanbul True Discovery",
+        shortDesc: "Istanbul True Discovery ST-06",
+        description: `<div class="rte product-single__description" itemprop="description">
     <h4><img src="/assets/secure-checkout.png" alt=""></h4>
 <h4><strong>Dolmabahçe Palace Interior Visit,Across to Asia:Bosphorus Bridge,Asian Hill,Pierre Loti Hill,Fly over by Cable Car,City Walls,Open Buffet Lunch on the Boat,Rumeli Fortress(From the Sea,The Black Sea,Beykoz(Stop over)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></h4>
 <p><em><strong>-Dolmabahçe Palace Interior Visit&nbsp;</strong></em></p>
@@ -332,35 +332,35 @@ module.exports = [
 <p><span style="color: #ff0000;">! Dolmabahçe Palace is closed on Monday and Thursday It will be replaced by a visit to Chora Museum (Church) on those days.</span><br><span style="color: #ff0000;">&nbsp;&nbsp;</span></p>
 <p>&nbsp;</p>
   </div>`,
-    price: 65.0,
-    images: [
-      {
-        src: "/assets/tours/istanbul/istanbul-true-discovery/1.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/istanbul-true-discovery/2.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/istanbul-true-discovery/3.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/istanbul-true-discovery/4.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/istanbul-true-discovery/5.jpg"
-      }
-    ],
-    slug: "istanbul-true-discovery-tour",
-    category: {
-      name: "Istanbul Tours",
-      slug: "istanbul-tours"
-    }
-  },
-  {
-    title: "Bosphorus & Black Sea",
-    slug: "bosphours-black-sea",
-    shortDesc: "Bosphorus & blacksea with lunch ST-8 XL",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 65.0,
+        images: [
+            {
+                src: "/assets/tours/istanbul/istanbul-true-discovery/1.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/istanbul-true-discovery/2.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/istanbul-true-discovery/3.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/istanbul-true-discovery/4.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/istanbul-true-discovery/5.jpg"
+            }
+        ],
+        slug: "istanbul-true-discovery-tour",
+        category: {
+            name: "Istanbul Tours",
+            slug: "istanbul-tours"
+        }
+    },
+    {
+        title: "Bosphorus & Black Sea",
+        slug: "bosphours-black-sea",
+        shortDesc: "Bosphorus & blacksea with lunch ST-8 XL",
+        description: `<div class="rte product-single__description" itemprop="description">
     <h4><img src="/assets/secure-checkout.png" alt=""></h4>
 <h4><strong></strong></h4>
 <p>&nbsp;Half Day Bosphorus and Black Sea Tour with Lunch&nbsp;</p>
@@ -373,28 +373,28 @@ module.exports = [
 <p><strong><em>ST-8 includes Open Buffet Lunch on the Boat.</em></strong></p>
 <p>&nbsp;</p>
   </div>`,
-    price: 35.0,
-    images: [
-      {
-        src: "/assets/tours/istanbul/bosphorus-black-sea/1.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/bosphorus-black-sea/2.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/bosphorus-black-sea/3.jpg"
-      }
-    ],
-    category: {
-      name: "Istanbul Tours",
-      slug: "istanbul-tours"
-    }
-  },
-  {
-    title: "Istanbul Active & Sea Life",
-    slug: "istanbul-active-sea-life",
-    shortDesc: "Istanbul Active & Sea Life ST-9",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 35.0,
+        images: [
+            {
+                src: "/assets/tours/istanbul/bosphorus-black-sea/1.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/bosphorus-black-sea/2.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/bosphorus-black-sea/3.jpg"
+            }
+        ],
+        category: {
+            name: "Istanbul Tours",
+            slug: "istanbul-tours"
+        }
+    },
+    {
+        title: "Istanbul Active & Sea Life",
+        slug: "istanbul-active-sea-life",
+        shortDesc: "Istanbul Active & Sea Life ST-9",
+        description: `<div class="rte product-single__description" itemprop="description">
     <h4><img src="/assets/secure-checkout.png" alt=""></h4>
 <h4>Full Day City Tour with Cable Car, Shopping and Cruise with Lunch&nbsp;</h4>
 <h4>-PIERRE LOTI HILL&nbsp;</h4>
@@ -409,31 +409,31 @@ module.exports = [
 <h4>-BLACK SEA STOP OVER&nbsp;&nbsp;</h4>
 <p><strong><em>MAIDEN'S TOWER</em></strong></p>
   </div>`,
-    price: 45.0,
-    images: [
-      {
-        src: "/assets/tours/istanbul/istanbul-active-sea-life/1.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/istanbul-active-sea-life/2.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/istanbul-active-sea-life/3.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/istanbul-active-sea-life/4.jpg"
-      }
-    ],
-    category: {
-      name: "Istanbul Tours",
-      slug: "istanbul-tours"
-    }
-  },
-  {
-    title: "Bosphorus Dinner Cruise",
-    slug: "bosphorus-dinner-cruise-istanbul-night",
-    shortDesc: "Bosphorus Dinner Cruise Istanbul Night",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 45.0,
+        images: [
+            {
+                src: "/assets/tours/istanbul/istanbul-active-sea-life/1.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/istanbul-active-sea-life/2.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/istanbul-active-sea-life/3.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/istanbul-active-sea-life/4.jpg"
+            }
+        ],
+        category: {
+            name: "Istanbul Tours",
+            slug: "istanbul-tours"
+        }
+    },
+    {
+        title: "Bosphorus Dinner Cruise",
+        slug: "bosphorus-dinner-cruise-istanbul-night",
+        shortDesc: "Bosphorus Dinner Cruise Istanbul Night",
+        description: `<div class="rte product-single__description" itemprop="description">
     <h4><img src="/assets/secure-checkout.png" alt=""></h4>
 <br>
 <p>Your tour will start from your hotel. You will be transfered from your hotel to our boat by our non-smoking and air-conditioned shuttle buses.</p>
@@ -444,80 +444,80 @@ module.exports = [
 <span><u>Excluded</u></span><br><span>Tips and gratuities Imported drinks&nbsp;</span><br><span>Notes: Advanced reservation required, not suitable for handicapped people.</span><br><span>Owing to traffic difficulties, pick-up may delay beyond our control.&nbsp;</span><br>
 <p>&nbsp;</p>
   </div>`,
-    price: 45.0,
-    images: [
-      {
-        src: "/assets/tours/istanbul/bosphorus-dinner-cruise/1.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/bosphorus-dinner-cruise/2.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/bosphorus-dinner-cruise/3.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/bosphorus-dinner-cruise/4.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/bosphorus-dinner-cruise/5.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/bosphorus-dinner-cruise/6.jpg"
-      }
-    ],
-    category: {
-      name: "Istanbul Tours",
-      slug: "istanbul-tours"
-    }
-  },
-  {
-    title: "Bosphorus Sunset Yacht Tour",
-    slug: "bosphorus-sunset-yacht-tour",
-    shortDesc: "Bosphorus Sunset Yacht Tour",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 45.0,
+        images: [
+            {
+                src: "/assets/tours/istanbul/bosphorus-dinner-cruise/1.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/bosphorus-dinner-cruise/2.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/bosphorus-dinner-cruise/3.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/bosphorus-dinner-cruise/4.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/bosphorus-dinner-cruise/5.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/bosphorus-dinner-cruise/6.jpg"
+            }
+        ],
+        category: {
+            name: "Istanbul Tours",
+            slug: "istanbul-tours"
+        }
+    },
+    {
+        title: "Bosphorus Sunset Yacht Tour",
+        slug: "bosphorus-sunset-yacht-tour",
+        shortDesc: "Bosphorus Sunset Yacht Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
     <h4><img src="/assets/secure-checkout.png" alt=""></h4>
 <h4><strong></strong></h4>
 <span>Enjoy such a beautiful and unique experience as Bosphorous sunset cruise 💙</span><br><span>⠀</span><br><span>You will swim between Europe and Asia on a comfortable nice private yacht, listen to your favorite music, taste various fresh fruits and enjoy the views of one of the most beautiful cities in the world 💙🤗</span><br><span>⠀</span><br><span>What can be better?</span>
 <p>&nbsp;</p>
 <p>Enjoy unique views, comfort and a relaxing environment on board. Private sunset tour, just for you and your chosen companions, loved ones, family or friends, nobody else.<br><br>You’ll see some of the most famous and beautiful highlights of the Bosphorus strait offering great photo opportunities to capture beautiful sunsets, waterfront palaces, mosques and mansions.<br><br>This cruise is ideal for couples, families or small groups of friends (up to 12 guests in total) wishing to experience the most delightful time of sunset over Istanbul's unique skyline, or to celebrate a special occasion or romantic evening.<br><br>After this evening cruise with ever-changing views, we can drop you off at selected piers or seaside restaurants along the Bosphorus, or to your hotel. A truly unbeatable location to sip champagne or cocktails in Istanbul. Highly recommended!<br><br><br><br>Sunset Cruise Schedule<br>Daily 17: 00-19: 00 *, 19: 00-21: 00 ** (duration: 2 hours)<br><br>Istanbul Sunset Times<br>Sunset Cruise during the 17: 00-19: 00.<br>** Sunset Cruise during March-April &amp; September-October period, the sunset sets during our 19: 00-21: 00.<br>*** During May-August, the sunset sets during our 20:00 departing Dinner or Evening Cruises.<br><br>Pick Up &amp; Drop Off:<br>We can collect you right from your hotel or cruiseship in Istanbul with round-trip hotel transfers for pick-up and drop-off provided (FREE for European-side city-center hotels or cruiseships - see these Istanbul neighborhoods , Arnavutköy and Kabatas piers (European Side), from Beylerbeyi and Kuleli piers (Asian Side), from selected Bosphorus hotels and restaurants with their own piers (for hotel residents / with restaurant reservation). (From any other locations, apartments, suites, residences, B &amp; Bs or private addresses, we will advise you to the nearest selected hotel or pier for you to come to for pick-up instead). See also additional restaurant drop-off points further above.<br><br>Capacity:<br>For Small Groups: Zoe Yacht is ideal for up to 12 guests.<br>For Larger Groups: We also offer a selection of large group sizes - please just email us with your requirements.<br><br>Pricing:<br>Click here to see all cruise prices for 2019<br><br>Special Occasions:<br>You can enhance your special occasion by adding a birthday cake, champagne and other extras while making a reservation in our online booking system.</p>
   </div>`,
-    price: 260.0,
-    images: [
-      {
-        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/1.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/2.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/3.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/4.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/5.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/6.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/7.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/8.jpg"
-      }
-    ],
-    category: {
-      name: "Istanbul Tours",
-      slug: "istanbul-tours"
-    }
-  },
-  {
-    title: "Princes Island Tour",
-    slug: "princes-island-tour",
-    shortDesc: "Princes Island Tour",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 260.0,
+        images: [
+            {
+                src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/1.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/2.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/3.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/4.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/5.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/6.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/7.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/bosphorus-sunset-yacht-tour/8.jpg"
+            }
+        ],
+        category: {
+            name: "Istanbul Tours",
+            slug: "istanbul-tours"
+        }
+    },
+    {
+        title: "Princes Island Tour",
+        slug: "princes-island-tour",
+        shortDesc: "Princes Island Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
     <h2>
 <img src="/assets/secure-checkout.png" alt=""><strong></strong><span><u></u></span><br><br>
 </h2>
@@ -526,34 +526,34 @@ module.exports = [
 <p><span><u>Excluded;</u></span><br>Food,drink on the ferry to islands<br>Drinks<br>Personal expenses<br>Tips and gratitues</p>
 <h3></h3>
   </div>`,
-    price: 55.0,
-    images: [
-      {
-        src: "/assets/tours/istanbul/princes-island-tour/1.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/princes-island-tour/2.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/princes-island-tour/3.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/princes-island-tour/4.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/princes-island-tour/5.jpg"
-      }
-    ],
-    category: {
-      name: "Istanbul Tours",
-      slug: "istanbul-tours"
-    }
-  },
-  {
-    title: "Sapanca & Zoo tour",
-    slug: "sapanca-and-zoo-tour",
-    shortDesc: "Sapanca & Maşukiye & Zoo Sapanca Tour",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 55.0,
+        images: [
+            {
+                src: "/assets/tours/istanbul/princes-island-tour/1.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/princes-island-tour/2.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/princes-island-tour/3.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/princes-island-tour/4.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/princes-island-tour/5.jpg"
+            }
+        ],
+        category: {
+            name: "Istanbul Tours",
+            slug: "istanbul-tours"
+        }
+    },
+    {
+        title: "Sapanca & Zoo tour",
+        slug: "sapanca-and-zoo-tour",
+        shortDesc: "Sapanca & Maşukiye & Zoo Sapanca Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
     <h2>
 <img src="/assets/secure-checkout.png" alt=""><strong></strong>
 </h2>
@@ -561,71 +561,71 @@ module.exports = [
 <p><strong>Sapanca &amp; Maşukiye &amp; Zoo Tour&nbsp;Full day tour<span>&nbsp; &nbsp;</span></strong><strong><br><span>We will pick you up from your hotel(city center hotels),then you will meet with your group and guide at the meeting point. We go to zoo which is the biggest zoo in Turkey. Sapanca lake will be the second stop. You can have a walk on lakeside or pedalling on the lake with nice lake view. Then,we will drive to Maşukiye Village to have lunch consisting of full organic stuff. Next,we will see Maşukiye waterfal. End of the tour back to Istanbul and we drop you off to your hotel. &nbsp; &nbsp; &nbsp;</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br>Sapanca<span>-Town and district in the Sakarya province,near lake Sapanca. You can have a walk near lake or pedalling on the lake.</span><br>Maşukiye<span>-Small village located between lake Sapanca and Kartepe mountain. You will enjoy in the beauty of Maşukiye’s forest,waterfall,delicious food in restaurants of wood.</span><br>Lunch(Drinks are extra)<span>-You can choose kebab,pide,desert such as baklava and other delicious Turkish traditional food.</span><br>Mountain Kartepe<span>-Kartepe is a town and district of Kocaeli province. It was founded in 1600. Kartepe ski centre has been constructed 1650 m altitude over mountain Kartepe.&nbsp;</span><br><br><span>IMPORTANT NOTICE</span><br>During summer we don't visit Kartepe mountain,during winter time we don't visit Zoo</strong></p>
 <h3></h3>
   </div>`,
-    price: 55.0,
-    images: [
-      {
-        src: "/assets/tours/istanbul/sapanca-masukiye-tour/1.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/sapanca-masukiye-tour/2.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/sapanca-masukiye-tour/3.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/sapanca-masukiye-tour/4.jpg"
-      },
-      {
-        src: "/assets/tours/istanbul/sapanca-masukiye-tour/5.jpg"
-      }
-    ],
-    category: {
-      name: "Istanbul Tours",
-      slug: "istanbul-tours"
-    }
-  },
-  {
-    title: "Green Bursa Full Day Tour",
-    slug: "green-bursa-full-day-tour",
-    shortDesc: "Green Bursa Full Day Tour",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 55.0,
+        images: [
+            {
+                src: "/assets/tours/istanbul/sapanca-masukiye-tour/1.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/sapanca-masukiye-tour/2.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/sapanca-masukiye-tour/3.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/sapanca-masukiye-tour/4.jpg"
+            },
+            {
+                src: "/assets/tours/istanbul/sapanca-masukiye-tour/5.jpg"
+            }
+        ],
+        category: {
+            name: "Istanbul Tours",
+            slug: "istanbul-tours"
+        }
+    },
+    {
+        title: "Green Bursa Full Day Tour",
+        slug: "green-bursa-full-day-tour",
+        shortDesc: "Green Bursa Full Day Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
     <h2>
 <img src="/assets/secure-checkout.png" alt=""><strong>Green Bursa&nbsp;</strong><strong>Full day tour</strong>
 </h2>
 <p><strong>Bursa</strong><span>-Large city in northwest Turkey. It was the first capital of the Ottoman Empire between 1335-1363. The city has nickname Green Bursa(Yeşil Bursa) in reference to the parks and gardens,located across its urban fabrics,and richly varied forests of the surrounding region. The ski resort of mountain Uludağ towers over it.</span><br><strong>Green Mosque</strong><span>-It was built by architect Hacı Paşa at the request of Ottoman Sultan Mehmet Çelebi 1415-1419. Located on the city named Green,Green Mosque composes of mausoleum(tomb),madrasah,cultivation and turkish baths.</span><br><strong>Inkaya Village</strong><span>-Known for the most old (610 years) tree&nbsp;</span><span><strong>Çınar</strong>.</span><br><strong>Lunch(Drinks are extra)</strong><span>-You can choose kebab,chicken,beef,desert such as baklava and other delicious Turkish traditional food.</span><br><strong>Uludağ Mountain</strong><span>-The ancient Mysian Olympus and Bithynian Olympus,popular center for winter sports. We will have free time for walking,jeep safari.</span><br><strong>Cable Car</strong><span>-We will take the cable car from&nbsp;</span><strong>Uludağ(Olympos)</strong><span>&nbsp;mountain to Bursa,where you can enjoy a breath-taking panoramic view of Bursa.</span><br><br><span><u>Included</u></span><br><span>Hotel pick up &amp; drop off by air-conditioned non-smoking tour coaches</span><br><span>Entrance fees</span><br><span>Lunch</span><br><span>Professional licensed tour guide</span><br><span>Service charges &amp; local taxes</span><br><br><span><u>Excluded</u></span><br><span>Food,drink on the ferry from Gebze to Jalova</span><br><span>Drinks</span><br><span>Personal expenses</span><br><span>Tips and gratitues</span></p>
 <h3></h3>
   </div>`,
-    price: 55.0,
-    images: [
-      {
-        src: "/assets/tours/bursa/green-bursa-full-day-tour/1.jpg"
-      },
-      {
-        src: "/assets/tours/bursa/green-bursa-full-day-tour/2.png"
-      },
-      {
-        src: "/assets/tours/bursa/green-bursa-full-day-tour/3.jpg"
-      },
-      {
-        src: "/assets/tours/bursa/green-bursa-full-day-tour/4.jpg"
-      },
-      {
-        src: "/assets/tours/bursa/green-bursa-full-day-tour/5.jpg"
-      },
-      {
-        src: "/assets/tours/bursa/green-bursa-full-day-tour/6.jpg"
-      }
-    ],
-    category: {
-      name: "Bursa Tours",
-      slug: "bursa-tours"
-    }
-  },
-  {
-    title: "Antalya Paragliding Tour",
-    slug: "paragliding-tour",
-    shortDesc: "Paragliding Tour",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 55.0,
+        images: [
+            {
+                src: "/assets/tours/bursa/green-bursa-full-day-tour/1.jpg"
+            },
+            {
+                src: "/assets/tours/bursa/green-bursa-full-day-tour/2.png"
+            },
+            {
+                src: "/assets/tours/bursa/green-bursa-full-day-tour/3.jpg"
+            },
+            {
+                src: "/assets/tours/bursa/green-bursa-full-day-tour/4.jpg"
+            },
+            {
+                src: "/assets/tours/bursa/green-bursa-full-day-tour/5.jpg"
+            },
+            {
+                src: "/assets/tours/bursa/green-bursa-full-day-tour/6.jpg"
+            }
+        ],
+        category: {
+            name: "Bursa Tours",
+            slug: "bursa-tours"
+        }
+    },
+    {
+        title: "Antalya Paragliding Tour",
+        slug: "paragliding-tour",
+        shortDesc: "Paragliding Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
 <p><span class="head"><em><strong><br></strong></em></span></p>
 <div class="package-info">
@@ -650,31 +650,31 @@ module.exports = [
 </div>
 </div>
   </div>`,
-    price: 120.0,
-    images: [
-      {
-        src: "/assets/tours/antalya/paragliding-tour/1.png"
-      },
-      {
-        src: "/assets/tours/antalya/paragliding-tour/2.png"
-      },
-      {
-        src: "/assets/tours/antalya/paragliding-tour/3.png"
-      },
-      {
-        src: "/assets/tours/antalya/paragliding-tour/4.png"
-      }
-    ],
-    category: {
-      name: "Antalya Tours",
-      slug: "antalya-tours"
-    }
-  },
-  {
-    title: "Antalya Daily City Tour",
-    slug: "antalya-daily-city-tour",
-    shortDesc: "Antalya Daily City Tour",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 120.0,
+        images: [
+            {
+                src: "/assets/tours/antalya/paragliding-tour/1.png"
+            },
+            {
+                src: "/assets/tours/antalya/paragliding-tour/2.png"
+            },
+            {
+                src: "/assets/tours/antalya/paragliding-tour/3.png"
+            },
+            {
+                src: "/assets/tours/antalya/paragliding-tour/4.png"
+            }
+        ],
+        category: {
+            name: "Antalya Tours",
+            slug: "antalya-tours"
+        }
+    },
+    {
+        title: "Antalya Daily City Tour",
+        slug: "antalya-daily-city-tour",
+        shortDesc: "Antalya Daily City Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
 <p><span class="head"><em><strong>Duration:</strong></em><span>&nbsp;</span></span>1 Day</p>
 <p><span class="head"><em><strong>Location:</strong></em><span>&nbsp;</span></span>Antalya</p>
@@ -697,40 +697,40 @@ module.exports = [
 </div>
 </div>
   </div>`,
-    price: 65.0,
-    images: [
-      {
-        src: "/assets/tours/antalya/daily-city-tour/1.jpg"
-      },
-      {
-        src: "/assets/tours/antalya/daily-city-tour/2.png"
-      },
-      {
-        src: "/assets/tours/antalya/daily-city-tour/3.png"
-      },
-      {
-        src: "/assets/tours/antalya/daily-city-tour/4.png"
-      },
-      {
-        src: "/assets/tours/antalya/daily-city-tour/5.png"
-      },
-      {
-        src: "/assets/tours/antalya/daily-city-tour/6.png"
-      },
-      {
-        src: "/assets/tours/antalya/daily-city-tour/7.png"
-      }
-    ],
-    category: {
-      name: "Antalya Tours",
-      slug: "antalya-tours"
-    }
-  },
-  {
-    title: "Antalya Blue Cruise Tour",
-    slug: "antalya-blue-cruise-tour",
-    shortDesc: "Antalya Blue Cruise Tour 4 daus, 3 night Tour",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 65.0,
+        images: [
+            {
+                src: "/assets/tours/antalya/daily-city-tour/1.jpg"
+            },
+            {
+                src: "/assets/tours/antalya/daily-city-tour/2.png"
+            },
+            {
+                src: "/assets/tours/antalya/daily-city-tour/3.png"
+            },
+            {
+                src: "/assets/tours/antalya/daily-city-tour/4.png"
+            },
+            {
+                src: "/assets/tours/antalya/daily-city-tour/5.png"
+            },
+            {
+                src: "/assets/tours/antalya/daily-city-tour/6.png"
+            },
+            {
+                src: "/assets/tours/antalya/daily-city-tour/7.png"
+            }
+        ],
+        category: {
+            name: "Antalya Tours",
+            slug: "antalya-tours"
+        }
+    },
+    {
+        title: "Antalya Blue Cruise Tour",
+        slug: "antalya-blue-cruise-tour",
+        shortDesc: "Antalya Blue Cruise Tour 4 daus, 3 night Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
 <p>&nbsp;</p>
 <div class="package-info">
@@ -756,34 +756,34 @@ module.exports = [
 </div>
 <p>&nbsp;</p>
   </div>`,
-    price: 330.0,
-    images: [
-      {
-        src: "/assets/tours/antalya/blue-cruise-tour/1.png"
-      },
-      {
-        src: "/assets/tours/antalya/blue-cruise-tour/2.png"
-      },
-      {
-        src: "/assets/tours/antalya/blue-cruise-tour/3.png"
-      },
-      {
-        src: "/assets/tours/antalya/blue-cruise-tour/4.png"
-      },
-      {
-        src: "/assets/tours/antalya/blue-cruise-tour/5.png"
-      }
-    ],
-    category: {
-      name: "Antalya Tours",
-      slug: "antalya-tours"
-    }
-  },
-  {
-    title: "Antalya Termesos & Duden Waterfall Tour",
-    slug: "antalya-termesos-and-duden-waterfall-tour",
-    shortDesc: "Antalya Termesos & Duden Waterfall Tour",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 330.0,
+        images: [
+            {
+                src: "/assets/tours/antalya/blue-cruise-tour/1.png"
+            },
+            {
+                src: "/assets/tours/antalya/blue-cruise-tour/2.png"
+            },
+            {
+                src: "/assets/tours/antalya/blue-cruise-tour/3.png"
+            },
+            {
+                src: "/assets/tours/antalya/blue-cruise-tour/4.png"
+            },
+            {
+                src: "/assets/tours/antalya/blue-cruise-tour/5.png"
+            }
+        ],
+        category: {
+            name: "Antalya Tours",
+            slug: "antalya-tours"
+        }
+    },
+    {
+        title: "Antalya Termesos & Duden Waterfall Tour",
+        slug: "antalya-termesos-and-duden-waterfall-tour",
+        shortDesc: "Antalya Termesos & Duden Waterfall Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
 <p>&nbsp;</p>
 <h2 class="accordion-title">TERMESOS &amp; DUDEN WATERFALL TOUR</h2>
@@ -804,34 +804,34 @@ module.exports = [
 <p><strong>Exclusions :</strong></p>
 <p>• Drinks<br>• Dinner</p>
   </div>`,
-    price: 60.0,
-    images: [
-      {
-        src: "/assets/tours/antalya/termesos-duden-waterfall-tour/1.png"
-      },
-      {
-        src: "/assets/tours/antalya/termesos-duden-waterfall-tour/2.png"
-      },
-      {
-        src: "/assets/tours/antalya/termesos-duden-waterfall-tour/3.png"
-      },
-      {
-        src: "/assets/tours/antalya/termesos-duden-waterfall-tour/4.png"
-      },
-      {
-        src: "/assets/tours/antalya/termesos-duden-waterfall-tour/5.png"
-      }
-    ],
-    category: {
-      name: "Antalya Tours",
-      slug: "antalya-tours"
-    }
-  },
-  {
-    title: "Ephesus - Pamukkale - Hireapolis Tour",
-    slug: "pamukkale-ephesus-hireapolis-tour",
-    shortDesc: "Ephesus - Pamukkale - Hireapolis Tour",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 60.0,
+        images: [
+            {
+                src: "/assets/tours/antalya/termesos-duden-waterfall-tour/1.png"
+            },
+            {
+                src: "/assets/tours/antalya/termesos-duden-waterfall-tour/2.png"
+            },
+            {
+                src: "/assets/tours/antalya/termesos-duden-waterfall-tour/3.png"
+            },
+            {
+                src: "/assets/tours/antalya/termesos-duden-waterfall-tour/4.png"
+            },
+            {
+                src: "/assets/tours/antalya/termesos-duden-waterfall-tour/5.png"
+            }
+        ],
+        category: {
+            name: "Antalya Tours",
+            slug: "antalya-tours"
+        }
+    },
+    {
+        title: "Ephesus - Pamukkale - Hireapolis Tour",
+        slug: "pamukkale-ephesus-hireapolis-tour",
+        shortDesc: "Ephesus - Pamukkale - Hireapolis Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
 <p><span style="color: #000000;">IZMIR&nbsp;<i class="fa fa-long-arrow-right"></i>&nbsp;EPHESUS&nbsp;<i class="fa fa-long-arrow-right"></i>&nbsp;PAMUKKALE</span></p>
 <p><span style="color: #ff0000;">All year round&nbsp; – Everyday</span><br><br><strong>Day 1&nbsp;</strong>We start your travel from your hotel in Istanbul and flight to Izmir. After flight we drive to Selcuk and visit the House of Virgin Mary where she is believed to spend her last days. We proceed to ancient city of Ephesus, the wealthiest city of the ancient world and the best preserved one in the today’s world. Ruins include a theater, Gymnasium, Agora, Odeon, Bouleterion, Fountains and the Library of Celsus. After lunch we visit the St. John’s Basilica and his tomb and the Temple of Artemis considered as one of the Seven Wonders of the world. Overnight in Kusadasi.</p>
@@ -840,69 +840,69 @@ module.exports = [
 <p><span><strong><u>What are included?</u></strong></span><br>-Accomodation<br><span>-All transfers<br>-Professional tour guide<br>-Entrance fees for museums and archeological sites<br>-Lunch in a local restaurant</span></p>
 <p><span><strong><u>What are excluded?</u></strong></span><br><span>-Domestic flights<br>-Dinner<br>-Entrance fee for Cleopatra Pool<br>-Personal expenses, tips and drinks</span></p>
   </div>`,
-    price: 320.0,
-    images: [
-      {
-        src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/1.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/2.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/3.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/4.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/5.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/6.jpg"
-      }
-    ],
-    category: {
-      name: "Pamukkale Tours",
-      slug: "pamukkale-tours"
-    }
-  },
-  {
-    title: "Pamukkale Day Tour",
-    slug: "pamukkale-day-tour",
-    shortDesc: "Pamukkale Day Tour",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 320.0,
+        images: [
+            {
+                src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/1.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/2.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/3.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/4.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/5.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/6.jpg"
+            }
+        ],
+        category: {
+            name: "Pamukkale Tours",
+            slug: "pamukkale-tours"
+        }
+    },
+    {
+        title: "Pamukkale Day Tour",
+        slug: "pamukkale-day-tour",
+        shortDesc: "Pamukkale Day Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
 <p>&nbsp;</p>
 <p><strong>Afrodisias<span>&nbsp;</span></strong><span>is located approx 90 kms from&nbsp;</span><strong>Pamukkale</strong><span>&nbsp;and is one of the oldest sacred sites in Turkey. Dedicated to the ancient&nbsp;</span><strong>Mother Goddess</strong><span>&nbsp;and then the Greek goddess&nbsp;</span><strong>Aphrodite</strong><span>, it was the site of a magnificent&nbsp;</span><strong>Temple of Aphrodite</strong><span>&nbsp;and the home of a renowned school of marble sculpture. Tours to&nbsp;</span><strong>Afrodisias</strong><span>&nbsp;leave everyday (high season). The bus will pick you up from the hotel at 9:30 am and will return to Pamukkale approx 3:30pm.</span></p>
   </div>`,
-    price: 60.0,
-    images: [
-      {
-        src: "/assets/tours/pamukkale/pamukkale-day-tour/5.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/pamukkale-day-tour/1.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/pamukkale-day-tour/2.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/pamukkale-day-tour/3.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/pamukkale-day-tour/4.jpg"
-      }
-    ],
-    category: {
-      name: "Pamukkale Tours",
-      slug: "pamukkale-tours"
-    }
-  },
-  {
-    title: "Pamukkale Pragliding",
-    slug: "pamukkale-pragliding",
-    shortDesc: "Pamukkale Pragliding",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 60.0,
+        images: [
+            {
+                src: "/assets/tours/pamukkale/pamukkale-day-tour/5.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/pamukkale-day-tour/1.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/pamukkale-day-tour/2.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/pamukkale-day-tour/3.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/pamukkale-day-tour/4.jpg"
+            }
+        ],
+        category: {
+            name: "Pamukkale Tours",
+            slug: "pamukkale-tours"
+        }
+    },
+    {
+        title: "Pamukkale Pragliding",
+        slug: "pamukkale-pragliding",
+        shortDesc: "Pamukkale Pragliding",
+        description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
 <p>&nbsp;</p>
 <p><span><strong>Paragliding above Ancient City Hierapolis</strong></span></p>
@@ -915,50 +915,50 @@ module.exports = [
 <p>This tour is for you if you are looking Adventure sports in Cappadocia, extreme sports in Cappadocia.</p>
 <p><span></span>.</p>
   </div>`,
-    price: 110.0,
-    images: [
-      {
-        src: "/assets/tours/pamukkale/pamukkale-pragliding/1.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/pamukkale-pragliding/2.jpg"
-      }
-    ],
-    category: {
-      name: "Pamukkale Tours",
-      slug: "pamukkale-tours"
-    }
-  },
-  {
-    title: "Aphrodisias Tour",
-    slug: "aphrodisias-tour",
-    shortDesc: "Aphrodisias Tour",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 110.0,
+        images: [
+            {
+                src: "/assets/tours/pamukkale/pamukkale-pragliding/1.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/pamukkale-pragliding/2.jpg"
+            }
+        ],
+        category: {
+            name: "Pamukkale Tours",
+            slug: "pamukkale-tours"
+        }
+    },
+    {
+        title: "Aphrodisias Tour",
+        slug: "aphrodisias-tour",
+        shortDesc: "Aphrodisias Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
 <p>&nbsp;</p>
 <p><span>We begin with visit to the&nbsp;</span><strong>Red Springs</strong><span>, located in&nbsp;</span><strong>Karahayit</strong><span>, a village close to&nbsp;</span><strong>Pamukkale</strong><span>. Marvel at the water which is coloured red due to its high iron content.Next we visit the ruins of the ancient&nbsp;</span><strong>Roman</strong><span>&nbsp;spa town of&nbsp;</span><strong>Hierapolis</strong><span>, used as a spa since the 2nd Century, with people travelling from all over in the hope that the thermal water would cure their ailments. The town was a very wealthy one, and rebuilding following an earthquake saw&nbsp;</span><strong>Hierapolis</strong><span>expanded to include two&nbsp;</span><strong>Roman baths</strong><span>, a gymnasium, temples and a colonnaded main street. Over time, Hierapolis became one of the most influential&nbsp;</span><strong>Roman</strong><span>&nbsp;cities in the areas of arts, philosophy and trade. Today, the&nbsp;</span><strong>World Heritage</strong><span>-listed site is under restoration, and the theatre and the necropolis alone make the site well worth a visit. Our tour includes a visit to the museum, although please note that it is closed on Mondays.After taking you through Hierapolis, your guide will give you some information about the famous white travertines (calcium pools) which are part of the Hierapolis site, and give you free time to explore or swim in the&nbsp;</span><strong>Cleopatra Antique Pool</strong><span>.</span></p>
 <p>&nbsp;</p>
 <p>Tour concludes with a late buffet lunch. You will be dropped back to your hotel.</p>
   </div>`,
-    price: 80.0,
-    images: [
-      {
-        src: "/assets/tours/pamukkale/aphrodisias-tour/1.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/aphrodisias-tour/2.jpg"
-      }
-    ],
-    category: {
-      name: "Pamukkale Tours",
-      slug: "pamukkale-tours"
-    }
-  },
-  {
-    title: "Pamukkale & Hireapolis Daily Tour",
-    slug: "pamukkale-hireapolis-daily-tour",
-    shortDesc: "Pamukkale & Hireapolis Daily Tour",
-    description: `<div class="rte product-single__description" itemprop="description">
+        price: 80.0,
+        images: [
+            {
+                src: "/assets/tours/pamukkale/aphrodisias-tour/1.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/aphrodisias-tour/2.jpg"
+            }
+        ],
+        category: {
+            name: "Pamukkale Tours",
+            slug: "pamukkale-tours"
+        }
+    },
+    {
+        title: "Pamukkale & Hireapolis Daily Tour",
+        slug: "pamukkale-hireapolis-daily-tour",
+        shortDesc: "Pamukkale & Hireapolis Daily Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
     <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
 <p><span style="color: #000000;">IZMIR&nbsp;<i class="fa fa-long-arrow-right"></i>&nbsp;EPHESUS&nbsp;<i class="fa fa-long-arrow-right"></i>&nbsp;PAMUKKALE</span></p>
 <p><span style="color: #ff0000;">All year round&nbsp; – Everyday</span><br><br><strong>Day 1&nbsp;</strong>We start your travel from your hotel in Istanbul and flight to Izmir. After flight we drive to Selcuk and visit the House of Virgin Mary where she is believed to spend her last days. We proceed to ancient city of Ephesus, the wealthiest city of the ancient world and the best preserved one in the today’s world. Ruins include a theater, Gymnasium, Agora, Odeon, Bouleterion, Fountains and the Library of Celsus. After lunch we visit the St. John’s Basilica and his tomb and the Temple of Artemis considered as one of the Seven Wonders of the world. Overnight in Kusadasi.</p>
@@ -967,27 +967,107 @@ module.exports = [
 <p><span><strong><u>What are included?</u></strong></span><br>-Accomodation<br><span>-All transfers<br>-Professional tour guide<br>-Entrance fees for museums and archeological sites<br>-Lunch in a local restaurant</span></p>
 <p><span><strong><u>What are excluded?</u></strong></span><br><span>-Domestic flights<br>-Dinner<br>-Entrance fee for Cleopatra Pool<br>-Personal expenses, tips and drinks</span></p>
   </div>`,
-    price: 220.0,
-    images: [
-      {
-        src: "/assets/tours/pamukkale/pamukkale-hireapolis-daily-tour/1.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/pamukkale-hireapolis-daily-tour/2.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/pamukkale-hireapolis-daily-tour/3.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/pamukkale-hireapolis-daily-tour/4.jpg"
-      },
-      {
-        src: "/assets/tours/pamukkale/pamukkale-hireapolis-daily-tour/5.jpg"
-      }
-    ],
-    category: {
-      name: "Pamukkale Tours",
-      slug: "pamukkale-tours"
-    }
-  }
+        price: 220.0,
+        images: [
+            {
+                src: "/assets/tours/pamukkale/pamukkale-hireapolis-daily-tour/1.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/pamukkale-hireapolis-daily-tour/2.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/pamukkale-hireapolis-daily-tour/3.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/pamukkale-hireapolis-daily-tour/4.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/pamukkale-hireapolis-daily-tour/5.jpg"
+            }
+        ],
+        category: {
+            name: "Pamukkale Tours",
+            slug: "pamukkale-tours"
+        }
+    },
+    {
+        title: "Ephesus - Pamukkale - Hireapolis Tour",
+        slug: "ephesus-pamukkale-hireapolis-tour",
+        shortDesc: "Ephesus - Pamukkale - Hireapolis Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
+    <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
+<p><span style="color: #000000;">IZMIR&nbsp;<i class="fa fa-long-arrow-right"></i>&nbsp;EPHESUS&nbsp;<i class="fa fa-long-arrow-right"></i>&nbsp;PAMUKKALE</span></p>
+<p><span style="color: #ff0000;">All year round&nbsp; – Everyday</span><br><br><strong>Day 1&nbsp;</strong>We start your travel from your hotel in Istanbul and flight to Izmir. After flight we drive to Selcuk and visit the House of Virgin Mary where she is believed to spend her last days. We proceed to ancient city of Ephesus, the wealthiest city of the ancient world and the best preserved one in the today’s world. Ruins include a theater, Gymnasium, Agora, Odeon, Bouleterion, Fountains and the Library of Celsus. After lunch we visit the St. John’s Basilica and his tomb and the Temple of Artemis considered as one of the Seven Wonders of the world. Overnight in Kusadasi.</p>
+<p><strong>Day 2&nbsp;</strong>After breakfast we drive to Pamukkale which is the center of natural thermal spring waters with healing properties. Due to the chemical properties in the water, pure white colored travertines and stepped water terraces have been created on the mountain slope. It is for its resemblence to cotton piles that it is called ‘Cotton Castle’ in Turkish. We visit the travertines and the ancient city of Hierapolis which has the biggest Nekropol with 1200 gravestones in Anatolia. The sacred pool also is one of the highlights of the site. There shallow thermal waters ripple over a wonderful scattering of ancient roman ruins that lie beneath</p>
+<p>We return to istanbul after two days of pleasant tour. Your transfers are provided by vipmesst travel representative</p>
+<p><span><strong><u>What are included?</u></strong></span><br>-Accomodation<br><span>-All transfers<br>-Professional tour guide<br>-Entrance fees for museums and archeological sites<br>-Lunch in a local restaurant</span></p>
+<p><span><strong><u>What are excluded?</u></strong></span><br><span>-Domestic flights<br>-Dinner<br>-Entrance fee for Cleopatra Pool<br>-Personal expenses, tips and drinks</span></p>
+  </div>`,
+        price: 320.0,
+        images: [
+            {
+                src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/1.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/2.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/3.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/4.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/5.jpg"
+            },
+            {
+                src: "/assets/tours/pamukkale/ephesus-pamukkale-hierapolis-tour/6.jpg"
+            }
+        ],
+        category: {
+            name: "Ephesus Tours",
+            slug: "ephesus-tours"
+        }
+    },
+    {
+        title: "Daily Ephesus Tour",
+        slug: "daily-ephesus-tour",
+        shortDesc: "Daily Ephesus Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
+          <p>&nbsp;<img src="/assets/secure-checkout.png" alt=""></p>
+<p><strong><u>Ephesus - Artemission Temple - The House of Virgin Mary - St. John Basilica Tour With&nbsp;Lunch&nbsp;</u></strong></p>
+<p><span>This tour start from Istanbul Hotels. We'll pick you up from your hotel to airport for flight to Izmir. After greeting, we will have 50 mins. drive to Ephesus area. We will start visiting one of the main highlights in Turkey,&nbsp;<strong>Ephesus</strong>, one of the 12 cities of Ionian League (an ancient Greek district on the western coast of Asia Minor) is located near Izmir. As a port city&nbsp;it was a major departure point for trade routes into Asia Minor.</span><br><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br><span>Walk through history along marble streets lined with wonderful public buildings, among them the Baths of Scholastica, the Library of Celsus; it was built in the beginning of the 2nd century A.D. by Gaius Julius Aquila to be a memorial to his father Gaius Julius Celsus Polemanus, the proconsul of Province of Asia. , the Temple of Hadrian and&nbsp;The Grand Theater are two of the most impressive buildings in Ephesus. Grand theatre was built in 3rd century B.C and it was later expanded to 24.000 spectators by the Romans in the 1st century A.D. The theater was the place where St. Paul preached. Have a stop for&nbsp;<strong>a traditional Turkish lunch.&nbsp;</strong></span><br><br><strong><span>The House of Virgin Mary&nbsp;</span></strong><span>is located on the Aladag Mountains 5 miles away from Ephesus. At the third Ecumenical Council on 431 AD in Ephesus, it was claimed that Mary came to Ephesus with St. John in 37 A.D. and lived there until her death in 48 A.D. After the discovery of the house, the Archbishop of Izmir declared there as a place of pilgrimage in 1892. On July 26, 1967, Pope Paul VI visited this place and prayed there.&nbsp; After House of Virgin Mary,&nbsp; drive to&nbsp;<strong>St. John’s Basilica</strong>, it is believed that the evangelist St. John had spent his last years in the region around Ephesus and buried in the southern slope of Ayosolug Hill. We will stop at&nbsp;&nbsp;<strong>Artemission&nbsp;Temple</strong>&nbsp;where used to be one of the seven wonders of the ancient world as our last stop before drive back to hotel. The end of our services.</span><br><br><span><u>Includes&nbsp;</u></span><br><span>Professional tour guide ( English /or Spanish )<br>Entrance fees<br>Private air-conditioned transportation<br>Lunch (drinks are excluded)</span><br><br><span><u>Excluded</u></span><br><span>Domestic Flight Tickets</span><br><span>Accomodation</span><br><span>Drinks</span></p>
+        </div>`,
+        price: 220.0,
+        images: [
+            {
+                src: "/assets/tours/ephesus/daily-ephesus-tour/1.jpg"
+            },
+            {
+                src: "/assets/tours/ephesus/daily-ephesus-tour/2.jpg"
+            },
+            {
+                src: "/assets/tours/ephesus/daily-ephesus-tour/3.jpg"
+            },
+            {
+                src: "/assets/tours/ephesus/daily-ephesus-tour/4.jpg"
+            },
+            {
+                src: "/assets/tours/ephesus/daily-ephesus-tour/5.jpg"
+            },
+            {
+                src: "/assets/tours/ephesus/daily-ephesus-tour/6.jpg"
+            },
+            {
+                src: "/assets/tours/ephesus/daily-ephesus-tour/7.jpg"
+            },
+            {
+                src: "/assets/tours/ephesus/daily-ephesus-tour/8.jpg"
+            }
+        ],
+        category: {
+            name: "Ephesus Tours",
+            slug: "ephesus-tours"
+        }
+    },
 ];
