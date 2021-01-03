@@ -1070,4 +1070,31 @@ module.exports = [
             slug: "ephesus-tours"
         }
     },
+    {
+        title: "Daily Troy Tour",
+        slug: "daily-troy-tour",
+        shortDesc: "Daily Troy Tour",
+        description: `<div class="rte product-single__description" itemprop="description">
+          <h4><img src="/assets/secure-checkout.png" alt=""></h4>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="color: #ff0000;">[This tour departs every day except 24</span><br><br>th and 25<br>th April]<br>06.00- 06.30 Pick up from your hotel in Taksim<br>06.30- 07.00 Pick up from your hotel in Sultan Ahmet<br>And then you will be transferred to Eceabat<br>12.00 Arrival at Eceabat and Having lunch at a Resturant<br>12.45 Departure for a full Guided Troy Tour<br>Places you will visit in this Tour:<br>-The Trojan Horse<br>-Sacrifical Altars<br>-The 3700 year old city walls<br>-Houses of Troy I<br>-3000 B.C- 2500 B.C The Bouleuterion (Senate Building)<br>-The Odeon (Concert Hall)<br>-Remains of the various cities from Troy I to Troy IX<br>17.30 Back from Troy Tour and depart for Istanbul<br>22.30 Arrive in Istanbul and drop off at your hotel<br>This tour includes:<br>-All transportation by A/C ‘No-Smoking’ vehicles<br>-Restaurant Lunch<br>-Fully Guided Troy Tour with a professional English Speaking Guide<br>-Entrance fees to Troy Ancient site<br>-Ferry fees<br><br><br></p>
+        </div>`,
+        price: 99.0,
+        images: [
+            {
+                src: "/assets/tours/troy/daily-troy-tour/1.jpg"
+            },
+            {
+                src: "/assets/tours/troy/daily-troy-tour/2.jpg"
+            },
+            {
+                src: "/assets/tours/troy/daily-troy-tour/3.jpg"
+            }
+        ],
+        category: {
+            name: "Troy Tours",
+            slug: "troy-tours"
+        }
+    },
 ];
