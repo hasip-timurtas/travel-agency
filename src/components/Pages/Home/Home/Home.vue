@@ -54,6 +54,14 @@ export default {
           link: "/tours/ephesus-tours",
         },
         {
+          name: "Troy Tours",
+          link: "/tours/troy-tours",
+        },
+        {
+          name: "Gallipoli Tours",
+          link: "/tours/gallipoli-tours",
+        },
+        {
           name: "Airport Transfer",
           link: "/airport-transfer",
         },
