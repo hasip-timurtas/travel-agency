@@ -1110,10 +1110,10 @@ module.exports = [
         price: 99.0,
         images: [
             {
-                src: "/assets/tours/gallipli/daily-gallipli-tour/1.jpg"
+                src: "/assets/tours/gallipoli/daily-gallipoli-tour/1.jpg"
             },
             {
-                src: "/assets/tours/gallipli/daily-gallipli-tour/2.jpg"
+                src: "/assets/tours/gallipoli/daily-gallipoli-tour/2.jpg"
             }
         ],
         category: {
