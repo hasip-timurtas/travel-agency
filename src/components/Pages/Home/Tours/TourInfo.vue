@@ -1,7 +1,7 @@
 <template>
   <div class="tour-info container pa-5">
-    <h1 class="py-5">{{ tour.title }}</h1>
-    <v-carousel height="300" hide-delimiter-background>
+    <h1 class="py-5 text-center">{{ tour.title }}</h1>
+    <v-carousel height="500" hide-delimiter-background>
       <v-carousel-item
         v-for="(item, i) in tour.images"
         :key="i"
