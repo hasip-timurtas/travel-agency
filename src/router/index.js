@@ -8,241 +8,246 @@ import nProgress from "nprogress";
 Vue.use(VueRouter);
 
 const routes = [
-  {
-    path: "/",
-    component: () => import("@/HomeLayout"),
-    children: [
-      {
-        path: "",
-        name: "Home",
-        component: () => import("@/components/Pages/Home/Home/Home")
-      },
-      {
-        path: "airport-transfer",
-        name: "AirportTransfer",
-        component: () => import("@/components/Pages/Home/Transfer/Transfer")
-      },
-      {
-        path: "tours/:slug",
-        name: "Tours",
-        component: () => import("@/components/Pages/Home/Tours/Tours")
-      },
-      {
-        path: "tour-info/:slug",
-        name: "TourInfo",
-        component: () => import("@/components/Pages/Home/Tours/TourInfo")
-      },
-      {
-        path: "about-us",
-        name: "AboutUs",
-        component: () => import("@/components/Pages/Home/AboutUs")
-      },
-      {
-        path: "visitors",
-        name: "Visitors",
-        component: () => import("@/components/Pages/Home/Visitors")
-      },
-      /*
-      {
-        path: "contact",
-        name: "Contact",
-        component: () => import("@/components/Pages/Home/Contact")
-      },
-      */
-      {
-        path: "*",
-        name: "NotFound",
-        component: () => import("@/components/Pages/NotFound")
-      }
-    ]
-  },
-  /*
-  {
-    path: "/admin",
-    component: () => import("@/AdminLayout"),
-    children: [
-      {
+    {
         path: "/",
-        name: "Admin",
-        components: {
-          default: () => import("@/components/Pages/Transactions/PendingTransactions"),
-          headerAndMenu: HeaderAndMenu,
-          footer: Footer
+        component: () => import("@/HomeLayout"),
+        children: [
+            {
+                path: "",
+                name: "Home",
+                component: () => import("@/components/Pages/Home/Home/Home")
+            },
+            {
+                path: "airport-transfer",
+                name: "AirportTransfer",
+                component: () => import("@/components/Pages/Home/Transfer/Transfer")
+            },
+            {
+                path: "tours/:slug",
+                name: "Tours",
+                component: () => import("@/components/Pages/Home/Tours/Tours")
+            },
+            {
+                path: "tour-info/:slug",
+                name: "TourInfo",
+                component: () => import("@/components/Pages/Home/Tours/TourInfo")
+            },
+            {
+                path: "about-us",
+                name: "AboutUs",
+                component: () => import("@/components/Pages/Home/AboutUs")
+            },
+            {
+                path: "visitors",
+                name: "Visitors",
+                component: () => import("@/components/Pages/Home/Visitors")
+            },
+            {
+                path: "paypal",
+                name: "Paypal",
+                component: () => import("@/components/Pages/Home/Paypal")
+            },
+            /*
+            {
+              path: "contact",
+              name: "Contact",
+              component: () => import("@/components/Pages/Home/Contact")
+            },
+            */
+            {
+                path: "*",
+                name: "NotFound",
+                component: () => import("@/components/Pages/NotFound")
+            }
+        ]
+    },
+    /*
+    {
+      path: "/admin",
+      component: () => import("@/AdminLayout"),
+      children: [
+        {
+          path: "/",
+          name: "Admin",
+          components: {
+            default: () => import("@/components/Pages/Transactions/PendingTransactions"),
+            headerAndMenu: HeaderAndMenu,
+            footer: Footer
+          },
+          meta: {
+            requiresAuth: true
+          }
         },
-        meta: {
-          requiresAuth: true
+        {
+          path: "/transactions-list",
+          name: "Transactions",
+          components: {
+            default: () => import("@/components/Pages/Transactions/Transactions"),
+            headerAndMenu: HeaderAndMenu,
+            footer: Footer
+          },
+          meta: {
+            requiresAuth: true
+          },
+          beforeEnter(to, from, next) {
+            // test için
+            next();
+          }
+        },
+        {
+          path: "/pending-transactions-list",
+          name: "PendingTransactions",
+          components: {
+            default: () => import("@/components/Pages/Transactions/PendingTransactions"),
+            headerAndMenu: HeaderAndMenu,
+            footer: Footer
+          },
+          meta: {
+            requiresAuth: true
+          }
+        },
+        {
+          path: "/company-transactions-list",
+          name: "CompanyTransactions",
+          components: {
+            default: () => import("@/components/Pages/Transactions/CompanyTransactions"),
+            headerAndMenu: HeaderAndMenu,
+            footer: Footer
+          },
+          meta: {
+            requiresAuth: true
+          }
+        },
+        {
+          path: "/view-transaction/:id/:type",
+          name: "ViewTransaction",
+          components: {
+            default: () => import("@/components/Pages/Transactions/ViewTransaction"),
+            headerAndMenu: HeaderAndMenu,
+            footer: Footer
+          },
+          meta: {
+            requiresAuth: true
+          }
+        },
+        {
+          path: "/slots-list",
+          name: "Slots",
+          components: {
+            default: () => import("@/components/Pages/Slots/Slots"),
+            headerAndMenu: HeaderAndMenu,
+            footer: Footer
+          },
+          meta: {
+            requiresAuth: true
+          }
+        },
+        {
+          path: "/view-slot/:id",
+          name: "ViewSlot",
+          components: {
+            default: () => import("@/components/Pages/Slots/ViewSlot"),
+            headerAndMenu: HeaderAndMenu,
+            footer: Footer
+          },
+          meta: {
+            requiresAuth: true
+          }
+        },
+        {
+          path: "/companies-list",
+          name: "Companies",
+          components: {
+            default: () => import("@/components/Pages/Companies/Companies"),
+            headerAndMenu: HeaderAndMenu,
+            footer: Footer
+          },
+          meta: {
+            requiresAuth: true
+          }
+        },
+        {
+          path: "/view-company/:id",
+          name: "ViewCompany",
+          components: {
+            default: () => import("@/components/Pages/Companies/ViewCompany"),
+            headerAndMenu: HeaderAndMenu,
+            footer: Footer
+          },
+          meta: {
+            requiresAuth: true
+          }
+        },
+        {
+          path: "/settings",
+          name: "Settings",
+          components: {
+            default: () => import("@/components/Pages/Settings/Settings"),
+            headerAndMenu: HeaderAndMenu,
+            footer: Footer
+          },
+          meta: {
+            requiresAuth: true
+          }
         }
-      },
-      {
-        path: "/transactions-list",
-        name: "Transactions",
-        components: {
-          default: () => import("@/components/Pages/Transactions/Transactions"),
-          headerAndMenu: HeaderAndMenu,
-          footer: Footer
-        },
-        meta: {
-          requiresAuth: true
-        },
-        beforeEnter(to, from, next) {
-          // test için
-          next();
-        }
-      },
-      {
-        path: "/pending-transactions-list",
-        name: "PendingTransactions",
-        components: {
-          default: () => import("@/components/Pages/Transactions/PendingTransactions"),
-          headerAndMenu: HeaderAndMenu,
-          footer: Footer
-        },
-        meta: {
-          requiresAuth: true
-        }
-      },
-      {
-        path: "/company-transactions-list",
-        name: "CompanyTransactions",
-        components: {
-          default: () => import("@/components/Pages/Transactions/CompanyTransactions"),
-          headerAndMenu: HeaderAndMenu,
-          footer: Footer
-        },
-        meta: {
-          requiresAuth: true
-        }
-      },
-      {
-        path: "/view-transaction/:id/:type",
-        name: "ViewTransaction",
-        components: {
-          default: () => import("@/components/Pages/Transactions/ViewTransaction"),
-          headerAndMenu: HeaderAndMenu,
-          footer: Footer
-        },
-        meta: {
-          requiresAuth: true
-        }
-      },
-      {
-        path: "/slots-list",
-        name: "Slots",
-        components: {
-          default: () => import("@/components/Pages/Slots/Slots"),
-          headerAndMenu: HeaderAndMenu,
-          footer: Footer
-        },
-        meta: {
-          requiresAuth: true
-        }
-      },
-      {
-        path: "/view-slot/:id",
-        name: "ViewSlot",
-        components: {
-          default: () => import("@/components/Pages/Slots/ViewSlot"),
-          headerAndMenu: HeaderAndMenu,
-          footer: Footer
-        },
-        meta: {
-          requiresAuth: true
-        }
-      },
-      {
-        path: "/companies-list",
-        name: "Companies",
-        components: {
-          default: () => import("@/components/Pages/Companies/Companies"),
-          headerAndMenu: HeaderAndMenu,
-          footer: Footer
-        },
-        meta: {
-          requiresAuth: true
-        }
-      },
-      {
-        path: "/view-company/:id",
-        name: "ViewCompany",
-        components: {
-          default: () => import("@/components/Pages/Companies/ViewCompany"),
-          headerAndMenu: HeaderAndMenu,
-          footer: Footer
-        },
-        meta: {
-          requiresAuth: true
-        }
-      },
-      {
-        path: "/settings",
-        name: "Settings",
-        components: {
-          default: () => import("@/components/Pages/Settings/Settings"),
-          headerAndMenu: HeaderAndMenu,
-          footer: Footer
-        },
-        meta: {
-          requiresAuth: true
-        }
-      }
-    ]
-  },
- 
-  {
-    path: "/login",
-    name: "Login",
-    component: () => import("@/components/Pages/Login")
-  },
+      ]
+    },
+   
+    {
+      path: "/login",
+      name: "Login",
+      component: () => import("@/components/Pages/Login")
+    },
+  
+    {
+      path: "/deposit-page/:id?",
+      name: "DepositPage",
+      component: () => import("@/components/Pages/Deposit/Deposit")
+    },
+    {
+      path: "/aninda-havale/:id?",
+      name: "AnindaHavale",
+      component: () => import("@/components/Pages/AnindaHavale/AnindaHavale")
+    },
+    {
+      path: "/aninda-havale-papara/:id?",
+      name: "AnindaHavalePapara",
+      component: () => import("@/components/Pages/AnindaHavale/AnindaHavalePapara")
+    },
+    {
+      path: "/api-explorer",
+      name: "ApiExplorer",
+      component: () => import("@/components/Pages/ApiExplorer/ApiExplorer")
+    },
+    */
 
-  {
-    path: "/deposit-page/:id?",
-    name: "DepositPage",
-    component: () => import("@/components/Pages/Deposit/Deposit")
-  },
-  {
-    path: "/aninda-havale/:id?",
-    name: "AnindaHavale",
-    component: () => import("@/components/Pages/AnindaHavale/AnindaHavale")
-  },
-  {
-    path: "/aninda-havale-papara/:id?",
-    name: "AnindaHavalePapara",
-    component: () => import("@/components/Pages/AnindaHavale/AnindaHavalePapara")
-  },
-  {
-    path: "/api-explorer",
-    name: "ApiExplorer",
-    component: () => import("@/components/Pages/ApiExplorer/ApiExplorer")
-  },
-  */
-
-  {
-    path: "/test",
-    name: "Test",
-    component: () => import("@/components/Pages/Test")
-  }
+    {
+        path: "/test",
+        name: "Test",
+        component: () => import("@/components/Pages/Test")
+    }
 ];
 
 const router = new VueRouter({
-  mode: "history",
-  routes
+    mode: "history",
+    routes
 });
 
 router.beforeEach((to, from, next) => {
-  if (to.matched.some((record) => record.meta.requiresAuth)) {
-    if (store.getters["auth/loggedIn"]) {
-      nProgress.start();
-      next();
-      return;
+    if (to.matched.some((record) => record.meta.requiresAuth)) {
+        if (store.getters["auth/loggedIn"]) {
+            nProgress.start();
+            next();
+            return;
+        }
+        next("/login");
+    } else {
+        next();
     }
-    next("/login");
-  } else {
-    next();
-  }
 });
 
 router.afterEach(() => {
-  nProgress.done();
+    nProgress.done();
 });
 
 export default router;
