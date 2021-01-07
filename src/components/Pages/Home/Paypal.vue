@@ -12,6 +12,7 @@
   </div>
 </template>
 <script>
+// THIS PAGE IS FOR TEST
 import PayPal from "vue-paypal-checkout";
 export default {
   components: {
