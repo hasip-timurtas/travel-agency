@@ -148,22 +148,18 @@ export default {
         children: [
           {
             text: "Islanbul Tours",
-            // icon: "mdi-book-open-outline",
             link: "/tours/istanbul-tours",
           },
           {
             text: "Cappadocia Tours",
-            // icon: "mdi-book-open-outline",
             link: "/tours/cappadocia-tours",
           },
           {
             text: "Pamukkale Tours",
-            //icon: "mdi-book-open-outline",
             link: "/tours/pamukkale-tours",
           },
           {
             text: "Antalya Tours",
-            //icon: "mdi-book-open-outline",
             link: "/tours/antalya-tours",
           },
         ],
@@ -184,13 +180,6 @@ export default {
         icon: "mdi-heart",
         color: "red",
       },
-      /*
-      {
-        text: "Contact",
-        link: "/contact",
-        icon: "mdi-email-outline",
-      },
-      */
     ];
   },
 };
