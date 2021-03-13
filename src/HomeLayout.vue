@@ -8,7 +8,7 @@
     >
       <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
       <v-spacer></v-spacer>
-      <v-toolbar-title class="ml-0 pl-4 mr-12">
+      <v-toolbar-title class="logo-container">
         <router-link to="/">
           <v-img
             src="@/assets/logo.png"
@@ -18,6 +18,16 @@
         </router-link>
       </v-toolbar-title>
       <v-spacer></v-spacer>
+      <div class="top-right-contact">
+        <v-icon class="px-2">mdi-whatsapp</v-icon>
+        <a href="https://wa.me/905356817355/?text=Hello" target="_blank">
+          +90 535 681 83 55
+        </a>
+        <v-icon class="px-2">mdi-email</v-icon>
+        <a href="mailto:+90 535 681 83 55" target="_blank">
+          info@sultanahmetoldcitytravel.com
+        </a>
+      </div>
     </v-app-bar>
     <v-navigation-drawer
       v-model="drawer"
@@ -186,6 +196,11 @@ export default {
 </script>
 
 <style lang="scss">
+.logo-container {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
 .home-header {
   height: 75px;
 }
@@ -194,5 +209,20 @@ html,
 body,
 .wrapper {
   height: 100%;
+}
+
+.top-right-contact {
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+
+  & a {
+    color: black;
+    text-decoration: none;
+  }
+
+  @include desktop-small-to {
+    display: none;
+  }
 }
 </style>
