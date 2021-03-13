@@ -1,10 +1,10 @@
 # Travel Agency
 
-http://95.179.209.108:8086
+https://agency.hasip.dev
+
+Website for travel agency
 
 ## Project setup
-
-Comitler sayılıyormu diye kontrol
 
 ```
 npm install
